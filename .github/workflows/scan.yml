@@ -1,1 +1,36 @@
-
+name: Check Smallville Wayback URLs
+on:
+  workflow_dispatch:
+    inputs:
+      start:
+        description: 'First URL number (1-based)'
+        required: true
+        default: '1'
+      count:
+        description: 'How many URLs (trial: 5, maximum 100)'
+        required: true
+        default: '5'
+      delay:
+        description: 'Seconds between requests (minimum 5)'
+        required: true
+        default: '12'
+permissions:
+  contents: read
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Query Wayback in small batches
+        run: python scan.py --start "${{ inputs.start }}" --count "${{ inputs.count }}" --delay "${{ inputs.delay }}"
+      - name: Make results downloadable even if previous step fails
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: wayback-results-${{ github.run_number }}
+          path: reports/
+          if-no-files-found: warn
