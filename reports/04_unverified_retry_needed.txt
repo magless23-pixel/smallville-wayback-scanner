@@ -3,3 +3,4 @@ URLError: <urlopen error _ssl.c:993: The handshake operation timed out> | http:/
 URLError: <urlopen error _ssl.c:993: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/0/bodyheat.html
 URLError: <urlopen error _ssl.c:993: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/0/conversationpiece.html
 URLError: <urlopen error _ssl.c:993: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/1/newyears.html
+URLError: <urlopen error _ssl.c:993: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/1/unexpected.html

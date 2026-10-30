@@ -172,3 +172,8 @@
 7 saves | 2002-06-08 | 20020608212552 | https://web.archive.org/web/20020608212552/http://smallville.slashdom.com:80/archive/1/thenondoubledate.html | http://smallville.slashdom.com:80/archive/1/thenondoubledate.html
 22 saves | 2002-04-05 | 20020405055803 | https://web.archive.org/web/20020405055803/http://smallville.slashdom.com:80/archive/1/theroad.html | http://smallville.slashdom.com:80/archive/1/theroad.html
 2 saves | 2002-04-17 | 20020417225713 | https://web.archive.org/web/20020417225713/http://smallville.slashdom.com:80/archive/1/thetaste.html | http://smallville.slashdom.com:80/archive/1/thetaste.html
+10 saves | 2002-04-17 | 20020417225504 | https://web.archive.org/web/20020417225504/http://smallville.slashdom.com:80/archive/1/thetruth.html | http://smallville.slashdom.com:80/archive/1/thetruth.html
+17 saves | 2002-03-19 | 20020319054447 | https://web.archive.org/web/20020319054447/http://smallville.slashdom.com:80/archive/1/theyblush.html | http://smallville.slashdom.com:80/archive/1/theyblush.html
+20 saves | 2002-04-08 | 20020408052640 | https://web.archive.org/web/20020408052640/http://smallville.slashdom.com:80/archive/1/thinline.html | http://smallville.slashdom.com:80/archive/1/thinline.html
+12 saves | 2002-03-13 | 20020313231809 | https://web.archive.org/web/20020313231809/http://smallville.slashdom.com:80/archive/1/tillyoure.html | http://smallville.slashdom.com:80/archive/1/tillyoure.html
+5 saves | 2002-10-06 | 20021006214935 | https://web.archive.org/web/20021006214935/http://smallville.slashdom.com:80/archive/1/tradition.html | http://smallville.slashdom.com:80/archive/1/tradition.html
