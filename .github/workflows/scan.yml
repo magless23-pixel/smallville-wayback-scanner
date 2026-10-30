@@ -1,24 +1,31 @@
 name: Check Smallville Wayback URLs
+
 on:
+  schedule:
+    # Every 4 hours at minute 37 UTC; avoid the busiest top-of-hour period.
+    - cron: '37 */4 * * *'
   workflow_dispatch:
     inputs:
       count:
-        description: 'URLs to check this run (1-50; test with 5)'
+        description: 'URLs to check this run (1-50)'
         required: true
-        default: '5'
+        default: '30'
       delay:
-        description: 'Seconds between successful requests (minimum 15)'
+        description: 'Seconds between requests (minimum 15)'
         required: true
         default: '20'
       retry_unverified:
         description: 'Retry previously failed URLs (true or false)'
         required: true
         default: 'false'
+
 permissions:
   contents: write
+
 concurrency:
   group: smallville-cdx-scan
   cancel-in-progress: false
+
 jobs:
   scan:
     runs-on: ubuntu-latest
@@ -31,19 +38,31 @@ jobs:
         with:
           python-version: '3.12'
       - name: Check and checkpoint results
+        env:
+          SCAN_COUNT: ${{ github.event_name == 'schedule' && '30' || inputs.count || '30' }}
+          SCAN_DELAY: ${{ github.event_name == 'schedule' && '20' || inputs.delay || '20' }}
+          RETRY_UNVERIFIED: ${{ github.event_name == 'schedule' && 'false' || inputs.retry_unverified || 'false' }}
         run: |
-          python scan.py --count '${{ inputs.count }}' --delay '${{ inputs.delay }}' ${{ inputs.retry_unverified == 'true' && '--retry-unverified' || '' }}
-      - name: Commit progress into repository for the next run
+          if [ "$RETRY_UNVERIFIED" = 'true' ]; then
+            python scan.py --count "$SCAN_COUNT" --delay "$SCAN_DELAY" --retry-unverified
+          else
+            python scan.py --count "$SCAN_COUNT" --delay "$SCAN_DELAY"
+          fi
+      - name: Commit progress into repository for next run
         if: always()
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add reports/
-          if ! git diff --cached --quiet; then
-            git commit -m 'Save Wayback scan progress'
-            git push
+          if [ -d reports ]; then
+            git add reports/
+            if ! git diff --cached --quiet; then
+              git commit -m 'Save Wayback scan progress'
+              git push
+            else
+              echo 'No changed scan results'
+            fi
           else
-            echo 'No changed scan results'
+            echo 'No reports directory to commit'
           fi
       - name: Downloadable report
         if: always()
