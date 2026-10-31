@@ -211,3 +211,4 @@
 9 saves | 2002-10-06 | 20021006214800 | https://web.archive.org/web/20021006214800/http://smallville.slashdom.com:80/archive/10/heat.html | http://smallville.slashdom.com:80/archive/10/heat.html
 5 saves | 2002-12-09 | 20021209052325 | https://web.archive.org/web/20021209052325/http://smallville.slashdom.com:80/archive/10/hero.html | http://smallville.slashdom.com:80/archive/10/hero.html
 7 saves | 2002-10-06 | 20021006215956 | https://web.archive.org/web/20021006215956/http://smallville.slashdom.com:80/archive/10/hideand.html | http://smallville.slashdom.com:80/archive/10/hideand.html
+7 saves | 2002-10-03 | 20021003074240 | https://web.archive.org/web/20021003074240/http://smallville.slashdom.com:80/archive/10/ifwishes.html | http://smallville.slashdom.com:80/archive/10/ifwishes.html

@@ -220,3 +220,5 @@ http://smallville.slashdom.com:80/archive/10/heat.html,REMAINING,9,2002-10-06,20
 http://smallville.slashdom.com:80/archive/10/hero.html,REMAINING,5,2002-12-09,20021209052325,https://web.archive.org/web/20021209052325/http://smallville.slashdom.com:80/archive/10/hero.html,OK
 http://smallville.slashdom.com:80/archive/10/hideand.html,REMAINING,7,2002-10-06,20021006215956,https://web.archive.org/web/20021006215956/http://smallville.slashdom.com:80/archive/10/hideand.html,OK
 http://smallville.slashdom.com:80/archive/10/honesty13.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:993: The handshake operation timed out>
+http://smallville.slashdom.com:80/archive/10/ifwishes.html,REMAINING,7,2002-10-03,20021003074240,https://web.archive.org/web/20021003074240/http://smallville.slashdom.com:80/archive/10/ifwishes.html,OK
+http://smallville.slashdom.com:80/archive/10/imagine.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:993: The handshake operation timed out>
