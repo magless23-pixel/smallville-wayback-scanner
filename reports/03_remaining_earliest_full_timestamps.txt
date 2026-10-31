@@ -208,3 +208,6 @@
 7 saves | 2002-10-06 | 20021006211423 | https://web.archive.org/web/20021006211423/http://smallville.slashdom.com:80/archive/10/futureimperfect.html | http://smallville.slashdom.com:80/archive/10/futureimperfect.html
 5 saves | 2002-10-06 | 20021006212600 | https://web.archive.org/web/20021006212600/http://smallville.slashdom.com:80/archive/10/getting.html | http://smallville.slashdom.com:80/archive/10/getting.html
 5 saves | 2002-08-26 | 20020826174033 | https://web.archive.org/web/20020826174033/http://smallville.slashdom.com:80/archive/10/goodbye.html | http://smallville.slashdom.com:80/archive/10/goodbye.html
+9 saves | 2002-10-06 | 20021006214800 | https://web.archive.org/web/20021006214800/http://smallville.slashdom.com:80/archive/10/heat.html | http://smallville.slashdom.com:80/archive/10/heat.html
+5 saves | 2002-12-09 | 20021209052325 | https://web.archive.org/web/20021209052325/http://smallville.slashdom.com:80/archive/10/hero.html | http://smallville.slashdom.com:80/archive/10/hero.html
+7 saves | 2002-10-06 | 20021006215956 | https://web.archive.org/web/20021006215956/http://smallville.slashdom.com:80/archive/10/hideand.html | http://smallville.slashdom.com:80/archive/10/hideand.html
