@@ -205,3 +205,6 @@
 4 saves | 2002-10-06 | 20021006211107 | https://web.archive.org/web/20021006211107/http://smallville.slashdom.com:80/archive/10/fireice.html | http://smallville.slashdom.com:80/archive/10/fireice.html
 14 saves | 2002-10-02 | 20021002180921 | https://web.archive.org/web/20021002180921/http://smallville.slashdom.com:80/archive/10/freak.html | http://smallville.slashdom.com:80/archive/10/freak.html
 7 saves | 2002-10-06 | 20021006211135 | https://web.archive.org/web/20021006211135/http://smallville.slashdom.com:80/archive/10/freezetag.html | http://smallville.slashdom.com:80/archive/10/freezetag.html
+7 saves | 2002-10-06 | 20021006211423 | https://web.archive.org/web/20021006211423/http://smallville.slashdom.com:80/archive/10/futureimperfect.html | http://smallville.slashdom.com:80/archive/10/futureimperfect.html
+5 saves | 2002-10-06 | 20021006212600 | https://web.archive.org/web/20021006212600/http://smallville.slashdom.com:80/archive/10/getting.html | http://smallville.slashdom.com:80/archive/10/getting.html
+5 saves | 2002-08-26 | 20020826174033 | https://web.archive.org/web/20020826174033/http://smallville.slashdom.com:80/archive/10/goodbye.html | http://smallville.slashdom.com:80/archive/10/goodbye.html
