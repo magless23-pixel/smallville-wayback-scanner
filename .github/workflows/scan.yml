@@ -2,18 +2,18 @@ name: Check Smallville Wayback URLs
 
 on:
   schedule:
-    # Every 2 hours at minute 37 UTC; avoid the busiest top-of-hour period.
-    - cron: '37 */2 * * *'
+    # Every 12 hours at minute 37 UTC; avoid the busiest top-of-hour period.
+    - cron: '37 */12 * * *'
   workflow_dispatch:
     inputs:
       count:
         description: 'URLs to check this run (1-50)'
         required: true
-        default: '50'
+        default: '100'
       delay:
         description: 'Seconds between requests (minimum 15)'
         required: true
-        default: '20'
+        default: '40'
       retry_unverified:
         description: 'Retry previously failed URLs (true or false)'
         required: true
