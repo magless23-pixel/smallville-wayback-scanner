@@ -130,7 +130,7 @@ def main():
         write(urls, records)
         completed += 1
         if records[url]['category'] == 'UNVERIFIED':
-    print('URL marked UNVERIFIED after failed attempts. Continuing to next URL.', flush=True)
+            print('URL marked UNVERIFIED after failed attempts. Continuing to next URL.', flush=True)
         if completed < args.count: time.sleep(args.delay)
     write(urls, records)
     print(f'Run ended: {completed} URLs attempted; {len(records)} results stored in reports/results.csv', flush=True)
