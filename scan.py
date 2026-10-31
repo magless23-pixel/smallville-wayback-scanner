@@ -87,13 +87,13 @@ def write(urls, records):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('--count', type=int, default=10, help='Max URLs attempted this run, up to 50')
+    ap.add_argument('--count', type=int, default=10, help='Max URLs attempted this run (any positive integer)')
     ap.add_argument('--delay', type=float, default=20, help='Seconds between requests, minimum 15')
     ap.add_argument('--retries', type=int, default=2, help='Extra tries after a temporary failure, up to 3')
     ap.add_argument('--retry-unverified', action='store_true', help='Retry previously unverified, otherwise only new URLs')
     args = ap.parse_args()
-    if not 1 <= args.count <= 50 or args.delay < 15 or not 0 <= args.retries <= 3:
-        ap.error('count 1..50; delay >=15; retries 0..3')
+    if args.count < 1 or args.delay < 15 or not 0 <= args.retries <= 3:
+        ap.error('count >=1; delay >=15; retries 0..3')
     urls = list(dict.fromkeys(x.strip() for x in Path('urls.txt').read_text(encoding='utf-8-sig').splitlines() if x.strip()))
     records = load()
     candidates = [url for url in urls if url not in records or (args.retry_unverified and records[url]['category'] == 'UNVERIFIED')]
