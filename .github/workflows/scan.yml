@@ -2,8 +2,8 @@ name: Check Smallville Wayback URLs
 
 on:
   schedule:
-    # Twice a day at 00:37 and 12:37 UTC; avoid the busiest top-of-hour period.
-    - cron: '37 */12 * * *'
+    # Every 8 hours at 00:37, 08:37 and 16:37 UTC; avoid the busiest top-of-hour period.
+    - cron: '37 */8 * * *'
   workflow_dispatch:
     inputs:
       count:
