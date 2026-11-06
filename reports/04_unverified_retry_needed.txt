@@ -169,3 +169,31 @@ URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http:/
 URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/23/sanctuary.html
 URLError: <urlopen error timed out> | http://smallville.slashdom.com:80/archive/25/submission.html
 URLError: <urlopen error timed out> | http://smallville.slashdom.com:80/archive/25/taken.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/26/rescue.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/26/samething.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/26/smallville.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/26/songof.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/26/thehappiest.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/26/thicker.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/26/timefor.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/26/warriorangel.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/26/whatlove.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/26/yourstar.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/27/anight.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/27/closerand.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/27/offlike.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/27/saturnreturn.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/27/tiesthat.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/27/whatisnt.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/28/anticlimax.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/28/biggerthan.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/28/caliban.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/28/failureof.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/28/heartattack.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/28/inthe.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/28/lostand.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/28/second.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/28/thedemons.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/28/thesound.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/29/ablessing.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/29/broken.html
