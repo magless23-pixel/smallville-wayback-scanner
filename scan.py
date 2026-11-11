@@ -86,18 +86,20 @@ def write(urls, records):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument('--count', type=int, default=None, help='Optional number of eligible URLs to check; omit to scan all')
     ap.add_argument('--delay', type=float, default=20, help='Seconds between requests, minimum 15')
     ap.add_argument('--retries', type=int, default=2, help='Extra tries after a temporary failure, up to 3')
     ap.add_argument('--retry-unverified', action='store_true', help='Retry previously unverified, otherwise only new URLs')
     args = ap.parse_args()
-    if args.delay < 15 or not 0 <= args.retries <= 3:
-        ap.error('delay >=15; retries 0..3')
+    if (args.count is not None and args.count < 1) or args.delay < 15 or not 0 <= args.retries <= 3:
+        ap.error('count >= 1 when supplied; delay >=15; retries 0..3')
     urls = list(dict.fromkeys(x.strip() for x in Path('urls.txt').read_text(encoding='utf-8-sig').splitlines() if x.strip()))
     records = load()
     candidates = [url for url in urls if url not in records or (args.retry_unverified and records[url]['category'] == 'UNVERIFIED')]
-    print(f'Total {len(urls)} URLs; {len(records)} prior results; {len(candidates)} eligible to check; scanning all eligible URLs', flush=True)
+    selected = candidates if args.count is None else candidates[:args.count]
+    print(f'Total {len(urls)} URLs; {len(records)} prior results; {len(candidates)} eligible to check; scanning {len(selected)} URL(s)', flush=True)
     completed = 0
-    for url in candidates:
+    for url in selected:
         index = urls.index(url) + 1
         for attempt in range(args.retries + 1):
             print(f'URL #{index}, attempt {attempt + 1}: {url}', flush=True)
@@ -129,7 +131,7 @@ def main():
         completed += 1
         if records[url]['category'] == 'UNVERIFIED':
             print('URL marked UNVERIFIED after failed attempts. Continuing to next URL.', flush=True)
-        if completed < len(candidates): time.sleep(args.delay)
+        if completed < len(selected): time.sleep(args.delay)
     write(urls, records)
     print(f'Run ended: {completed} URLs attempted; {len(records)} results stored in reports/results.csv', flush=True)
 
