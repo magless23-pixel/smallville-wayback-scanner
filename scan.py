@@ -45,7 +45,7 @@ def to_row(url, stamps):
         return [url, 'NO_SAVES', 0, '', '', '', 'OK']
     first = min(stamps)
     date = datetime.strptime(first, '%Y%m%d%H%M%S').replace(tzinfo=timezone.utc).strftime('%Y-%m-%d')
-    category = 'SAVED_ONCE_AFTER_2008' if len(stamps) == 1 and first[:8] > '20081231' else 'REMAINING'
+    category = 'EARLIEST_AFTER_2018' if first[:8] > '20181231' else 'REMAINING'
     return [url, category, len(stamps), date, first, f'https://web.archive.org/web/{first}/{url}', 'OK']
 
 
@@ -56,7 +56,16 @@ def load():
         reader = csv.DictReader(file)
         if reader.fieldnames != COLS:
             raise ValueError('Existing results.csv has unexpected columns. Refusing to overwrite it.')
-        return {row['original_url']: row for row in reader if row.get('original_url')}
+        records = {row['original_url']: row for row in reader if row.get('original_url')}
+        # Reclassify previously saved results without requesting their URLs again.
+        # Do not reinterpret failed requests or genuinely empty capture histories.
+        for row in records.values():
+            if row['category'] not in ('UNVERIFIED', 'NO_SAVES'):
+                first = row.get('earliest_timestamp_utc', '')
+                if len(first) != 14 or not first.isdigit():
+                    raise ValueError(f"Invalid saved earliest timestamp for {row['original_url']}")
+                row['category'] = 'EARLIEST_AFTER_2018' if first[:8] > '20181231' else 'REMAINING'
+        return records
 
 
 def write(urls, records):
@@ -67,10 +76,10 @@ def write(urls, records):
         writer = csv.DictWriter(file, fieldnames=COLS)
         writer.writeheader(); writer.writerows(ordered)
     temp.replace(STATE)
-    groups = {k: [] for k in ('NO_SAVES', 'SAVED_ONCE_AFTER_2008', 'REMAINING', 'UNVERIFIED')}
+    groups = {k: [] for k in ('NO_SAVES', 'EARLIEST_AFTER_2018', 'REMAINING', 'UNVERIFIED')}
     for row in ordered:
         groups[row['category']].append(row)
-    names = {'NO_SAVES': '01_no_saves.txt', 'SAVED_ONCE_AFTER_2008': '02_saved_once_after_2008.txt',
+    names = {'NO_SAVES': '01_no_saves.txt', 'EARLIEST_AFTER_2018': '02_earliest_after_2018.txt',
              'REMAINING': '03_remaining_earliest_full_timestamps.txt', 'UNVERIFIED': '04_unverified_retry_needed.txt'}
     for cat, filename in names.items():
         with (ROOT / filename).open('w', encoding='utf-8') as file:
@@ -80,6 +89,8 @@ def write(urls, records):
                 elif cat == 'UNVERIFIED': line = f"{row['status']} | {url}"
                 else: line = f"{row['indexed_save_count']} saves | {row['earliest_date_utc']} | {row['earliest_timestamp_utc']} | {row['earliest_snapshot_url']} | {url}"
                 file.write(line + '\n')
+    # Remove the obsolete report so it cannot be mistaken for current results.
+    (ROOT / '02_saved_once_after_2008.txt').unlink(missing_ok=True)
     summary = {'total_urls': len(urls), 'checked': sum(row['category'] != 'UNVERIFIED' for row in ordered),
                'remaining_unchecked': len(urls) - len(records), 'counts': {k: len(v) for k, v in groups.items()},
                'note': 'Save count = CDX timestamp records; may differ from calendar UI. Failed requests are never classified as NO_SAVES.'}
