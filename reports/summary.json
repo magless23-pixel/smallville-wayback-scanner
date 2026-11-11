@@ -1,11 +1,11 @@
 {
-  "total_urls": 3173,
-  "checked": 3173,
-  "remaining_unchecked": 0,
+  "total_urls": 3808,
+  "checked": 100,
+  "remaining_unchecked": 535,
   "counts": {
     "NO_SAVES": 0,
     "SAVED_ONCE_AFTER_2008": 0,
-    "REMAINING": 3173,
+    "REMAINING": 100,
     "UNVERIFIED": 0
   },
   "note": "Save count = CDX timestamp records; may differ from calendar UI. Failed requests are never classified as NO_SAVES."
