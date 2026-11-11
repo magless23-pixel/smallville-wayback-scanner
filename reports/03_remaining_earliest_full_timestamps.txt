@@ -3085,6 +3085,7 @@
 12 saves | 2002-08-14 | 20020814173802 | https://web.archive.org/web/20020814173802/http://smallville.slashdom.com:80/archive/9/allof.html | http://smallville.slashdom.com:80/archive/9/allof.html
 18 saves | 2002-10-20 | 20021020103450 | https://web.archive.org/web/20021020103450/http://smallville.slashdom.com:80/archive/9/apresle.html | http://smallville.slashdom.com:80/archive/9/apresle.html
 6 saves | 2002-07-21 | 20020721120651 | https://web.archive.org/web/20020721120651/http://smallville.slashdom.com:80/archive/9/aterrible.html | http://smallville.slashdom.com:80/archive/9/aterrible.html
+7 saves | 2002-08-14 | 20020814174147 | https://web.archive.org/web/20020814174147/http://smallville.slashdom.com:80/archive/9/bloodsports.html | http://smallville.slashdom.com:80/archive/9/bloodsports.html
 7 saves | 2002-08-14 | 20020814013917 | https://web.archive.org/web/20020814013917/http://smallville.slashdom.com:80/archive/9/bloodsports2.html | http://smallville.slashdom.com:80/archive/9/bloodsports2.html
 15 saves | 2002-08-14 | 20020814174523 | https://web.archive.org/web/20020814174523/http://smallville.slashdom.com:80/archive/9/breathingwater.html | http://smallville.slashdom.com:80/archive/9/breathingwater.html
 6 saves | 2002-08-14 | 20020814174607 | https://web.archive.org/web/20020814174607/http://smallville.slashdom.com:80/archive/9/chaff.html | http://smallville.slashdom.com:80/archive/9/chaff.html
@@ -3133,6 +3134,7 @@
 6 saves | 2002-08-14 | 20020814173030 | https://web.archive.org/web/20020814173030/http://smallville.slashdom.com:80/archive/9/sourcefigure.html | http://smallville.slashdom.com:80/archive/9/sourcefigure.html
 1 saves | 2002-08-14 | 20020814172328 | https://web.archive.org/web/20020814172328/http://smallville.slashdom.com:80/archive/9/sourcefigure10.html | http://smallville.slashdom.com:80/archive/9/sourcefigure10.html
 1 saves | 2002-08-14 | 20020814173153 | https://web.archive.org/web/20020814173153/http://smallville.slashdom.com:80/archive/9/sourcefigure11.html | http://smallville.slashdom.com:80/archive/9/sourcefigure11.html
+1 saves | 2002-08-14 | 20020814172756 | https://web.archive.org/web/20020814172756/http://smallville.slashdom.com:80/archive/9/sourcefigure2.html | http://smallville.slashdom.com:80/archive/9/sourcefigure2.html
 1 saves | 2002-08-14 | 20020814174315 | https://web.archive.org/web/20020814174315/http://smallville.slashdom.com:80/archive/9/sourcefigure3.html | http://smallville.slashdom.com:80/archive/9/sourcefigure3.html
 1 saves | 2002-08-14 | 20020814173406 | https://web.archive.org/web/20020814173406/http://smallville.slashdom.com:80/archive/9/sourcefigure4.html | http://smallville.slashdom.com:80/archive/9/sourcefigure4.html
 1 saves | 2002-08-14 | 20020814173803 | https://web.archive.org/web/20020814173803/http://smallville.slashdom.com:80/archive/9/sourcefigure5.html | http://smallville.slashdom.com:80/archive/9/sourcefigure5.html
@@ -3167,3 +3169,4 @@
 8 saves | 2002-07-26 | 20020726203058 | https://web.archive.org/web/20020726203058/http://smallville.slashdom.com:80/archive/9/wings.html | http://smallville.slashdom.com:80/archive/9/wings.html
 9 saves | 2002-08-14 | 20020814173611 | https://web.archive.org/web/20020814173611/http://smallville.slashdom.com:80/archive/9/yesterdaystomorrows.html | http://smallville.slashdom.com:80/archive/9/yesterdaystomorrows.html
 13 saves | 2002-08-14 | 20020814174107 | https://web.archive.org/web/20020814174107/http://smallville.slashdom.com:80/archive/9/yield.html | http://smallville.slashdom.com:80/archive/9/yield.html
+10 saves | 2002-12-20 | 20021220150314 | https://web.archive.org/web/20021220150314/http://smallville.slashdom.com:80/archive/9/youand.html | http://smallville.slashdom.com:80/archive/9/youand.html
