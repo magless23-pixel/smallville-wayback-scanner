@@ -110,3 +110,6 @@
 2 saves | 2007-06-27 | 20070627054902 | https://web.archive.org/web/20070627054902/http://www.smallville.slashdom.net:80/archive/1/sacrifice11.html | http://www.smallville.slashdom.net:80/archive/1/sacrifice11.html
 7 saves | 2008-09-27 | 20080927221300 | https://web.archive.org/web/20080927221300/http://smallville.slashdom.net:80/archive/1/seethis.html | http://smallville.slashdom.net:80/archive/1/seethis.html
 2 saves | 2008-04-02 | 20080402115132 | https://web.archive.org/web/20080402115132/http://smallville.slashdom.net:80/archive/1/seize.html | http://smallville.slashdom.net:80/archive/1/seize.html
+3 saves | 2008-04-11 | 20080411220341 | https://web.archive.org/web/20080411220341/http://www.smallville.slashdom.net:80/archive/1/shine.html | http://www.smallville.slashdom.net:80/archive/1/shine.html
+2 saves | 2008-08-03 | 20080803005212 | https://web.archive.org/web/20080803005212/http://www.smallville.slashdom.net:80/archive/1/snapshots.html | http://www.smallville.slashdom.net:80/archive/1/snapshots.html
+3 saves | 2007-12-29 | 20071229151930 | https://web.archive.org/web/20071229151930/http://www.smallville.slashdom.net:80/archive/1/somethingfor.html | http://www.smallville.slashdom.net:80/archive/1/somethingfor.html
