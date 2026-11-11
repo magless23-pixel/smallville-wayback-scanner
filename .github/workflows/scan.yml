@@ -3,6 +3,10 @@ name: Check Smallville Wayback URLs
 on:
   workflow_dispatch:
     inputs:
+      count:
+        description: 'Optional number of URLs to scan (blank = all eligible URLs)'
+        required: false
+        default: ''
       delay:
         description: 'Seconds between requests (minimum 15)'
         required: true
@@ -40,14 +44,18 @@ jobs:
           python-version: '3.12'
       - name: Check and checkpoint results
         env:
+          SCAN_COUNT: ${{ inputs.count }}
           SCAN_DELAY: ${{ inputs.delay || '40' }}
           RETRY_UNVERIFIED: ${{ inputs.retry_unverified || 'false' }}
         run: |
-          if [ "$RETRY_UNVERIFIED" = 'true' ]; then
-            python scan.py --delay "$SCAN_DELAY" --retry-unverified
-          else
-            python scan.py --delay "$SCAN_DELAY"
+          args=(--delay "$SCAN_DELAY")
+          if [ -n "$SCAN_COUNT" ]; then
+            args+=(--count "$SCAN_COUNT")
           fi
+          if [ "$RETRY_UNVERIFIED" = 'true' ]; then
+            args+=(--retry-unverified)
+          fi
+          python scan.py "${args[@]}"
       - name: Commit progress to default branch for next run
         if: always()
         env:
