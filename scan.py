@@ -13,6 +13,8 @@ from pathlib import Path
 COLS = ['original_url','category','indexed_save_count','earliest_date_utc','earliest_timestamp_utc','earliest_snapshot_url','status']
 ROOT = Path('reports')
 STATE = ROOT / 'results.csv'
+QUEUE = ROOT / 'scan_queue.json'
+CONTROL = ROOT / 'scan_control.json'
 HEADERS = {'User-Agent': 'SmallvilleArchiveResearch/1.0 (low-frequency personal archive research)', 'Accept': 'application/json'}
 
 
@@ -84,30 +86,83 @@ def write(urls, records):
     (ROOT / 'summary.json').write_text(json.dumps(summary, indent=2) + '\n', encoding='utf-8')
 
 
+def save_queue(queue):
+    ROOT.mkdir(exist_ok=True)
+    temp = QUEUE.with_suffix('.tmp')
+    temp.write_text(json.dumps(queue, indent=2) + '\n', encoding='utf-8')
+    temp.replace(QUEUE)
+
+
+def save_control(queue, stopped_for_time, completed):
+    # A follow-up is needed ONLY if this run ran out of scanning time and
+    # there are still selected URLs left. Never loop over previously failed URLs.
+    ROOT.mkdir(exist_ok=True)
+    control = {
+        'auto_continue': bool(stopped_for_time and queue['pending'] and completed > 0),
+        'remaining_in_selection': len(queue['pending']),
+        'attempted_this_run': completed,
+        'stopped_for_time': stopped_for_time,
+    }
+    CONTROL.write_text(json.dumps(control, indent=2) + '\n', encoding='utf-8')
+    return control
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('--count', type=int, default=None, help='Optional number of eligible URLs to check; omit to scan all')
+    ap.add_argument('--count', type=int, default=None, help='Optional number of URLs to check in this scan series')
     ap.add_argument('--delay', type=float, default=20, help='Seconds between requests, minimum 15')
     ap.add_argument('--retries', type=int, default=2, help='Extra tries after a temporary failure, up to 3')
     ap.add_argument('--retry-unverified', action='store_true', help='Retry previously unverified, otherwise only new URLs')
+    ap.add_argument('--max-minutes', type=float, default=350, help='Graceful scan time budget, default 350 minutes (5h50m)')
+    ap.add_argument('--continuation', action='store_true', help='Continue the previously saved selected URL queue')
     args = ap.parse_args()
-    if (args.count is not None and args.count < 1) or args.delay < 15 or not 0 <= args.retries <= 3:
-        ap.error('count >= 1 when supplied; delay >=15; retries 0..3')
+    if (args.count is not None and args.count < 1) or args.delay < 15 or not 0 <= args.retries <= 3 or args.max_minutes <= 0:
+        ap.error('count >= 1 when supplied; delay >=15; retries 0..3; max-minutes > 0')
+
+    deadline = time.monotonic() + args.max_minutes * 60
+    request_margin = 60
     urls = list(dict.fromkeys(x.strip() for x in Path('urls.txt').read_text(encoding='utf-8-sig').splitlines() if x.strip()))
+    positions = {url: i + 1 for i, url in enumerate(urls)}
     records = load()
-    candidates = [url for url in urls if url not in records or (args.retry_unverified and records[url]['category'] == 'UNVERIFIED')]
-    selected = candidates if args.count is None else candidates[:args.count]
-    print(f'Total {len(urls)} URLs; {len(records)} prior results; {len(candidates)} eligible to check; scanning {len(selected)} URL(s)', flush=True)
+
+    if args.continuation:
+        if not QUEUE.exists():
+            raise RuntimeError('Missing scan_queue.json; cannot safely continue scan')
+        queue = json.loads(QUEUE.read_text(encoding='utf-8'))
+        if not isinstance(queue.get('pending'), list) or not isinstance(queue.get('initial_size'), int):
+            raise ValueError('Invalid saved scan queue')
+        if any(u not in positions for u in queue['pending']):
+            raise ValueError('urls.txt changed since scan started; refusing to continue mismatched queue')
+    else:
+        candidates = [u for u in urls if u not in records or (args.retry_unverified and records[u]['category'] == 'UNVERIFIED')]
+        selected = candidates if args.count is None else candidates[:args.count]
+        queue = {'pending': selected, 'initial_size': len(selected), 'retry_unverified': args.retry_unverified}
+        save_queue(queue)
+
+    print(f"Total {len(urls)} URLs; {len(records)} previous records; "
+          f"{len(queue['pending'])} remaining in this scan series (originally {queue['initial_size']})", flush=True)
+
     completed = 0
-    for url in selected:
-        index = urls.index(url) + 1
+    stopped_for_time = False
+    while queue['pending']:
+        if time.monotonic() + request_margin >= deadline:
+            print('Time budget reached; stopping before next URL.', flush=True)
+            stopped_for_time = True
+            break
+        url = queue['pending'][0]
+        finished_url = False
         for attempt in range(args.retries + 1):
-            print(f'URL #{index}, attempt {attempt + 1}: {url}', flush=True)
+            if time.monotonic() + request_margin >= deadline:
+                print('Time budget reached; leaving this URL for next run.', flush=True)
+                stopped_for_time = True
+                break
+            print(f'URL #{positions[url]}, attempt {attempt + 1}: {url}', flush=True)
             try:
                 stamps = fetch(url)
                 values = to_row(url, stamps)
                 records[url] = dict(zip(COLS, values))
                 print(f"  {values[1]} — {values[2]} indexed captures, earliest {values[4]}", flush=True)
+                finished_url = True
                 break
             except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, OSError, ValueError, json.JSONDecodeError) as exc:
                 error = f'{type(exc).__name__}: {str(exc)[:130]}'
@@ -116,24 +171,49 @@ def main():
                     retry_after = None
                     if isinstance(exc, urllib.error.HTTPError):
                         retry_value = exc.headers.get('Retry-After') if exc.headers else None
-                        if retry_value and retry_value.isdigit(): retry_after = int(retry_value)
+                        if retry_value and retry_value.isdigit():
+                            retry_after = int(retry_value)
                     backoff = min(300, max(45 * (2 ** attempt), retry_after or 0))
+                    remaining = deadline - time.monotonic() - request_margin
+                    if remaining <= 0:
+                        stopped_for_time = True
+                        break
                     print(f'  Respecting rate limits; retry after {backoff} seconds', flush=True)
-                    time.sleep(backoff)
+                    time.sleep(min(backoff, remaining))
                 else:
                     records[url] = dict(zip(COLS, [url, 'UNVERIFIED', '', '', '', '', error]))
+                    finished_url = True
             except Exception as exc:
                 error = f'{type(exc).__name__}: {str(exc)[:130]}'
                 records[url] = dict(zip(COLS, [url, 'UNVERIFIED', '', '', '', '', error]))
                 print('  Unexpected error, leaving URL unverified: ' + error, flush=True)
+                finished_url = True
                 break
-        write(urls, records)
+
+        if not finished_url:
+            # Do not remove a partially attempted URL from the queue.
+            break
+        queue['pending'].pop(0)
         completed += 1
+        # Checkpoint both outputs after EVERY finished URL.
+        write(urls, records)
+        save_queue(queue)
         if records[url]['category'] == 'UNVERIFIED':
-            print('URL marked UNVERIFIED after failed attempts. Continuing to next URL.', flush=True)
-        if completed < len(selected): time.sleep(args.delay)
+            print('URL marked UNVERIFIED after failed attempts. Not retrying it in this scan series.', flush=True)
+        if queue['pending']:
+            remaining = deadline - time.monotonic() - request_margin
+            if remaining <= 0:
+                stopped_for_time = True
+                break
+            time.sleep(min(args.delay, remaining))
+
     write(urls, records)
-    print(f'Run ended: {completed} URLs attempted; {len(records)} results stored in reports/results.csv', flush=True)
+    save_queue(queue)
+    control = save_control(queue, stopped_for_time, completed)
+    print(f"Run ended: {completed} URLs attempted; {len(queue['pending'])} left in this selection; "
+          f"automatic continuation={control['auto_continue']}", flush=True)
+    if queue['pending'] and completed == 0:
+        print('No progress this run; automatic continuation disabled to avoid a restart loop.', flush=True)
 
 
 if __name__ == '__main__':
