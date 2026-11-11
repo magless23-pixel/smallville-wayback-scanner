@@ -2972,6 +2972,7 @@
 8 saves | 2002-06-14 | 20020614154901 | https://web.archive.org/web/20020614154901/http://smallville.slashdom.com:80/archive/7/this.html | http://smallville.slashdom.com:80/archive/7/this.html
 8 saves | 2002-06-14 | 20020614162223 | https://web.archive.org/web/20020614162223/http://smallville.slashdom.com:80/archive/7/truth.html | http://smallville.slashdom.com:80/archive/7/truth.html
 12 saves | 2002-08-14 | 20020814042917 | https://web.archive.org/web/20020814042917/http://smallville.slashdom.com:80/archive/7/trying.html | http://smallville.slashdom.com:80/archive/7/trying.html
+5 saves | 2002-10-20 | 20021020103224 | https://web.archive.org/web/20021020103224/http://smallville.slashdom.com:80/archive/7/twofathers.html | http://smallville.slashdom.com:80/archive/7/twofathers.html
 18 saves | 2002-06-28 | 20020628023617 | https://web.archive.org/web/20020628023617/http://smallville.slashdom.com:80/archive/7/uncleeinar.html | http://smallville.slashdom.com:80/archive/7/uncleeinar.html
 10 saves | 2002-06-14 | 20020614163415 | https://web.archive.org/web/20020614163415/http://smallville.slashdom.com:80/archive/7/underpressure.html | http://smallville.slashdom.com:80/archive/7/underpressure.html
 17 saves | 2002-06-07 | 20020607025925 | https://web.archive.org/web/20020607025925/http://smallville.slashdom.com:80/archive/7/undone.html | http://smallville.slashdom.com:80/archive/7/undone.html
@@ -2990,9 +2991,11 @@
 7 saves | 2002-06-28 | 20020628140927 | https://web.archive.org/web/20020628140927/http://smallville.slashdom.com:80/archive/8/anythingbut2.html | http://smallville.slashdom.com:80/archive/8/anythingbut2.html
 6 saves | 2002-06-28 | 20020628141101 | https://web.archive.org/web/20020628141101/http://smallville.slashdom.com:80/archive/8/aplaying.html | http://smallville.slashdom.com:80/archive/8/aplaying.html
 20 saves | 2002-10-02 | 20021002105319 | https://web.archive.org/web/20021002105319/http://smallville.slashdom.com:80/archive/8/apocrypha.html | http://smallville.slashdom.com:80/archive/8/apocrypha.html
+9 saves | 2002-07-02 | 20020702130211 | https://web.archive.org/web/20020702130211/http://smallville.slashdom.com:80/archive/8/avery.html | http://smallville.slashdom.com:80/archive/8/avery.html
 5 saves | 2002-08-08 | 20020808143100 | https://web.archive.org/web/20020808143100/http://smallville.slashdom.com:80/archive/8/awaken.html | http://smallville.slashdom.com:80/archive/8/awaken.html
 10 saves | 2002-07-14 | 20020714112333 | https://web.archive.org/web/20020714112333/http://smallville.slashdom.com:80/archive/8/bhindimasala.html | http://smallville.slashdom.com:80/archive/8/bhindimasala.html
 1 saves | 2002-07-06 | 20020706125641 | https://web.archive.org/web/20020706125641/http://smallville.slashdom.com:80/archive/8/birthdaycake.html | http://smallville.slashdom.com:80/archive/8/birthdaycake.html
+9 saves | 2002-08-14 | 20020814033530 | https://web.archive.org/web/20020814033530/http://smallville.slashdom.com:80/archive/8/bloodsports.html | http://smallville.slashdom.com:80/archive/8/bloodsports.html
 16 saves | 2002-06-28 | 20020628023854 | https://web.archive.org/web/20020628023854/http://smallville.slashdom.com:80/archive/8/bound.html | http://smallville.slashdom.com:80/archive/8/bound.html
 10 saves | 2002-07-06 | 20020706125729 | https://web.archive.org/web/20020706125729/http://smallville.slashdom.com:80/archive/8/boysraise.html | http://smallville.slashdom.com:80/archive/8/boysraise.html
 1 saves | 2002-07-06 | 20020706125916 | https://web.archive.org/web/20020706125916/http://smallville.slashdom.com:80/archive/8/breakinga.html | http://smallville.slashdom.com:80/archive/8/breakinga.html
@@ -3009,6 +3012,7 @@
 2 saves | 2002-07-04 | 20020704112655 | https://web.archive.org/web/20020704112655/http://smallville.slashdom.com:80/archive/8/fishsticks.html | http://smallville.slashdom.com:80/archive/8/fishsticks.html
 7 saves | 2002-08-14 | 20020814181612 | https://web.archive.org/web/20020814181612/http://smallville.slashdom.com:80/archive/8/foolfor.html | http://smallville.slashdom.com:80/archive/8/foolfor.html
 9 saves | 2002-06-28 | 20020628141839 | https://web.archive.org/web/20020628141839/http://smallville.slashdom.com:80/archive/8/forawhile.html | http://smallville.slashdom.com:80/archive/8/forawhile.html
+10 saves | 2002-07-24 | 20020724204227 | https://web.archive.org/web/20020724204227/http://smallville.slashdom.com:80/archive/8/gettingleied.html | http://smallville.slashdom.com:80/archive/8/gettingleied.html
 7 saves | 2002-10-20 | 20021020095709 | https://web.archive.org/web/20021020095709/http://smallville.slashdom.com:80/archive/8/graveyardfor.html | http://smallville.slashdom.com:80/archive/8/graveyardfor.html
 2 saves | 2002-07-06 | 20020706130540 | https://web.archive.org/web/20020706130540/http://smallville.slashdom.com:80/archive/8/hamburgernourishment.html | http://smallville.slashdom.com:80/archive/8/hamburgernourishment.html
 6 saves | 2002-10-20 | 20021020100358 | https://web.archive.org/web/20021020100358/http://smallville.slashdom.com:80/archive/8/hardor.html | http://smallville.slashdom.com:80/archive/8/hardor.html
@@ -3027,6 +3031,7 @@
 9 saves | 2002-07-06 | 20020706130428 | https://web.archive.org/web/20020706130428/http://smallville.slashdom.com:80/archive/8/longafter3.html | http://smallville.slashdom.com:80/archive/8/longafter3.html
 8 saves | 2002-07-06 | 20020706130850 | https://web.archive.org/web/20020706130850/http://smallville.slashdom.com:80/archive/8/loveis.html | http://smallville.slashdom.com:80/archive/8/loveis.html
 16 saves | 2002-07-06 | 20020706130902 | https://web.archive.org/web/20020706130902/http://smallville.slashdom.com:80/archive/8/manvs.html | http://smallville.slashdom.com:80/archive/8/manvs.html
+6 saves | 2002-07-09 | 20020709193222 | https://web.archive.org/web/20020709193222/http://smallville.slashdom.com:80/archive/8/marcopolo.html | http://smallville.slashdom.com:80/archive/8/marcopolo.html
 6 saves | 2002-08-14 | 20020814175958 | https://web.archive.org/web/20020814175958/http://smallville.slashdom.com:80/archive/8/masaison.html | http://smallville.slashdom.com:80/archive/8/masaison.html
 11 saves | 2002-10-20 | 20021020100645 | https://web.archive.org/web/20021020100645/http://smallville.slashdom.com:80/archive/8/meetingof.html | http://smallville.slashdom.com:80/archive/8/meetingof.html
 16 saves | 2002-08-14 | 20020814181006 | https://web.archive.org/web/20020814181006/http://smallville.slashdom.com:80/archive/8/mindgames.html | http://smallville.slashdom.com:80/archive/8/mindgames.html
@@ -3034,6 +3039,7 @@
 5 saves | 2002-10-20 | 20021020102309 | https://web.archive.org/web/20021020102309/http://smallville.slashdom.com:80/archive/8/neveralone.html | http://smallville.slashdom.com:80/archive/8/neveralone.html
 7 saves | 2002-07-03 | 20020703223340 | https://web.archive.org/web/20020703223340/http://smallville.slashdom.com:80/archive/8/noson.html | http://smallville.slashdom.com:80/archive/8/noson.html
 13 saves | 2002-07-10 | 20020710212208 | https://web.archive.org/web/20020710212208/http://smallville.slashdom.com:80/archive/8/nota.html | http://smallville.slashdom.com:80/archive/8/nota.html
+10 saves | 2002-09-19 | 20020919174454 | https://web.archive.org/web/20020919174454/http://smallville.slashdom.com:80/archive/8/pamelaon.html | http://smallville.slashdom.com:80/archive/8/pamelaon.html
 16 saves | 2002-06-28 | 20020628142533 | https://web.archive.org/web/20020628142533/http://smallville.slashdom.com:80/archive/8/paper.html | http://smallville.slashdom.com:80/archive/8/paper.html
 4 saves | 2002-08-14 | 20020814172225 | https://web.archive.org/web/20020814172225/http://smallville.slashdom.com:80/archive/8/parry.html | http://smallville.slashdom.com:80/archive/8/parry.html
 8 saves | 2002-06-28 | 20020628141920 | https://web.archive.org/web/20020628141920/http://smallville.slashdom.com:80/archive/8/passageletters.html | http://smallville.slashdom.com:80/archive/8/passageletters.html
