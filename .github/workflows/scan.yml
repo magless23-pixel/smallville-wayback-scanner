@@ -1,15 +1,8 @@
 name: Check Smallville Wayback URLs
 
 on:
-  schedule:
-    # Every 8 hours at 00:37, 08:37 and 16:37 UTC; avoid the busiest top-of-hour period.
-    - cron: '37 */8 * * *'
   workflow_dispatch:
     inputs:
-      count:
-        description: 'URLs to check this run (positive integer; script must support it)'
-        required: true
-        default: '100'
       delay:
         description: 'Seconds between requests (minimum 15)'
         required: true
@@ -47,14 +40,13 @@ jobs:
           python-version: '3.12'
       - name: Check and checkpoint results
         env:
-          SCAN_COUNT: ${{ github.event_name == 'schedule' && '100' || inputs.count || '100' }}
-          SCAN_DELAY: ${{ github.event_name == 'schedule' && '40' || inputs.delay || '40' }}
-          RETRY_UNVERIFIED: ${{ github.event_name == 'schedule' && 'false' || inputs.retry_unverified || 'false' }}
+          SCAN_DELAY: ${{ inputs.delay || '40' }}
+          RETRY_UNVERIFIED: ${{ inputs.retry_unverified || 'false' }}
         run: |
           if [ "$RETRY_UNVERIFIED" = 'true' ]; then
-            python scan.py --count "$SCAN_COUNT" --delay "$SCAN_DELAY" --retry-unverified
+            python scan.py --delay "$SCAN_DELAY" --retry-unverified
           else
-            python scan.py --count "$SCAN_COUNT" --delay "$SCAN_DELAY"
+            python scan.py --delay "$SCAN_DELAY"
           fi
       - name: Commit progress to default branch for next run
         if: always()
