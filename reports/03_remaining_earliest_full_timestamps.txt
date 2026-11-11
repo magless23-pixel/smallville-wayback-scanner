@@ -98,3 +98,14 @@
 4 saves | 2010-01-03 | 20100103112157 | https://web.archive.org/web/20100103112157/http://smallville.slashdom.net:80/archive/1/learnbraille.html | http://smallville.slashdom.net:80/archive/1/learnbraille.html
 7 saves | 2007-12-09 | 20071209232437 | https://web.archive.org/web/20071209232437/http://smallville.slashdom.net:80/archive/1/lessonsin.html | http://smallville.slashdom.net:80/archive/1/lessonsin.html
 2 saves | 2007-02-13 | 20070213104818 | https://web.archive.org/web/20070213104818/http://www.smallville.slashdom.net:80/archive/1/lies.html | http://www.smallville.slashdom.net:80/archive/1/lies.html
+6 saves | 2007-10-12 | 20071012060107 | https://web.archive.org/web/20071012060107/http://www.smallville.slashdom.net:80/archive/1/lyingto.html | http://www.smallville.slashdom.net:80/archive/1/lyingto.html
+6 saves | 2008-07-23 | 20080723112102 | https://web.archive.org/web/20080723112102/http://www.smallville.slashdom.net:80/archive/1/monopolylogic.html | http://www.smallville.slashdom.net:80/archive/1/monopolylogic.html
+4 saves | 2007-02-15 | 20070215062328 | https://web.archive.org/web/20070215062328/http://www.smallville.slashdom.net:80/archive/1/neon.html | http://www.smallville.slashdom.net:80/archive/1/neon.html
+5 saves | 2007-12-01 | 20071201151940 | https://web.archive.org/web/20071201151940/http://smallville.slashdom.net:80/archive/1/onlysometimes.html | http://smallville.slashdom.net:80/archive/1/onlysometimes.html
+3 saves | 2007-03-29 | 20070329181338 | https://web.archive.org/web/20070329181338/http://www.smallville.slashdom.net:80/archive/1/parade.html | http://www.smallville.slashdom.net:80/archive/1/parade.html
+3 saves | 2007-06-08 | 20070608021505 | https://web.archive.org/web/20070608021505/http://www.smallville.slashdom.net:80/archive/1/peoplemove.html | http://www.smallville.slashdom.net:80/archive/1/peoplemove.html
+5 saves | 2007-05-09 | 20070509103115 | https://web.archive.org/web/20070509103115/http://www.smallville.slashdom.net:80/archive/1/perfectfoil.html | http://www.smallville.slashdom.net:80/archive/1/perfectfoil.html
+4 saves | 2008-03-10 | 20080310001927 | https://web.archive.org/web/20080310001927/http://www.smallville.slashdom.net:80/archive/1/pitfall.html | http://www.smallville.slashdom.net:80/archive/1/pitfall.html
+3 saves | 2009-03-30 | 20090330065339 | https://web.archive.org/web/20090330065339/http://www.smallville.slashdom.net:80/archive/1/projectvii.html | http://www.smallville.slashdom.net:80/archive/1/projectvii.html
+2 saves | 2007-06-27 | 20070627054902 | https://web.archive.org/web/20070627054902/http://www.smallville.slashdom.net:80/archive/1/sacrifice11.html | http://www.smallville.slashdom.net:80/archive/1/sacrifice11.html
+7 saves | 2008-09-27 | 20080927221300 | https://web.archive.org/web/20080927221300/http://smallville.slashdom.net:80/archive/1/seethis.html | http://smallville.slashdom.net:80/archive/1/seethis.html
