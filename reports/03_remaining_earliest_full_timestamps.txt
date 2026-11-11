@@ -3001,6 +3001,7 @@
 1 saves | 2002-07-06 | 20020706125916 | https://web.archive.org/web/20020706125916/http://smallville.slashdom.com:80/archive/8/breakinga.html | http://smallville.slashdom.com:80/archive/8/breakinga.html
 11 saves | 2002-07-06 | 20020706130102 | https://web.archive.org/web/20020706130102/http://smallville.slashdom.com:80/archive/8/chinesewhispers.html | http://smallville.slashdom.com:80/archive/8/chinesewhispers.html
 7 saves | 2002-07-06 | 20020706130243 | https://web.archive.org/web/20020706130243/http://smallville.slashdom.com:80/archive/8/clarkscapture.html | http://smallville.slashdom.com:80/archive/8/clarkscapture.html
+8 saves | 2002-06-28 | 20020628024004 | https://web.archive.org/web/20020628024004/http://smallville.slashdom.com:80/archive/8/comeinto.html | http://smallville.slashdom.com:80/archive/8/comeinto.html
 12 saves | 2002-07-15 | 20020715111031 | https://web.archive.org/web/20020715111031/http://smallville.slashdom.com:80/archive/8/cornerof.html | http://smallville.slashdom.com:80/archive/8/cornerof.html
 1 saves | 2002-07-06 | 20020706130117 | https://web.archive.org/web/20020706130117/http://smallville.slashdom.com:80/archive/8/cottoncandy.html | http://smallville.slashdom.com:80/archive/8/cottoncandy.html
 4 saves | 2002-10-20 | 20021020101749 | https://web.archive.org/web/20021020101749/http://smallville.slashdom.com:80/archive/8/curiouslystrong.html | http://smallville.slashdom.com:80/archive/8/curiouslystrong.html
@@ -3025,6 +3026,7 @@
 19 saves | 2002-12-16 | 20021216214539 | https://web.archive.org/web/20021216214539/http://smallville.slashdom.com:80/archive/8/intervalin.html | http://smallville.slashdom.com:80/archive/8/intervalin.html
 9 saves | 2002-08-08 | 20020808143834 | https://web.archive.org/web/20020808143834/http://smallville.slashdom.com:80/archive/8/kaleidoscope.html | http://smallville.slashdom.com:80/archive/8/kaleidoscope.html
 11 saves | 2002-07-01 | 20020701042235 | https://web.archive.org/web/20020701042235/http://smallville.slashdom.com:80/archive/8/kingof.html | http://smallville.slashdom.com:80/archive/8/kingof.html
+10 saves | 2002-07-12 | 20020712130849 | https://web.archive.org/web/20020712130849/http://smallville.slashdom.com:80/archive/8/learningto.html | http://smallville.slashdom.com:80/archive/8/learningto.html
 14 saves | 2002-08-14 | 20020814174837 | https://web.archive.org/web/20020814174837/http://smallville.slashdom.com:80/archive/8/livewire.html | http://smallville.slashdom.com:80/archive/8/livewire.html
 10 saves | 2002-08-08 | 20020808144416 | https://web.archive.org/web/20020808144416/http://smallville.slashdom.com:80/archive/8/longafter.html | http://smallville.slashdom.com:80/archive/8/longafter.html
 9 saves | 2002-06-28 | 20020628024249 | https://web.archive.org/web/20020628024249/http://smallville.slashdom.com:80/archive/8/longafter2.html | http://smallville.slashdom.com:80/archive/8/longafter2.html
@@ -3051,6 +3053,7 @@
 7 saves | 2002-08-14 | 20020814174604 | https://web.archive.org/web/20020814174604/http://smallville.slashdom.com:80/archive/8/somethingwicked.html | http://smallville.slashdom.com:80/archive/8/somethingwicked.html
 14 saves | 2002-08-14 | 20020814173950 | https://web.archive.org/web/20020814173950/http://smallville.slashdom.com:80/archive/8/sometimes.html | http://smallville.slashdom.com:80/archive/8/sometimes.html
 7 saves | 2002-08-14 | 20020814174937 | https://web.archive.org/web/20020814174937/http://smallville.slashdom.com:80/archive/8/summertimeblue.html | http://smallville.slashdom.com:80/archive/8/summertimeblue.html
+8 saves | 2002-08-14 | 20020814174707 | https://web.archive.org/web/20020814174707/http://smallville.slashdom.com:80/archive/8/theblack.html | http://smallville.slashdom.com:80/archive/8/theblack.html
 10 saves | 2002-07-06 | 20020706130946 | https://web.archive.org/web/20020706130946/http://smallville.slashdom.com:80/archive/8/theblue.html | http://smallville.slashdom.com:80/archive/8/theblue.html
 9 saves | 2002-06-28 | 20020628024417 | https://web.archive.org/web/20020628024417/http://smallville.slashdom.com:80/archive/8/theday.html | http://smallville.slashdom.com:80/archive/8/theday.html
 4 saves | 2002-07-14 | 20020714112356 | https://web.archive.org/web/20020714112356/http://smallville.slashdom.com:80/archive/8/thedifference.html | http://smallville.slashdom.com:80/archive/8/thedifference.html
@@ -3058,6 +3061,7 @@
 5 saves | 2002-08-14 | 20020814175618 | https://web.archive.org/web/20020814175618/http://smallville.slashdom.com:80/archive/8/thegood.html | http://smallville.slashdom.com:80/archive/8/thegood.html
 5 saves | 2002-06-28 | 20020628142423 | https://web.archive.org/web/20020628142423/http://smallville.slashdom.com:80/archive/8/thekissing.html | http://smallville.slashdom.com:80/archive/8/thekissing.html
 11 saves | 2002-06-28 | 20020628024450 | https://web.archive.org/web/20020628024450/http://smallville.slashdom.com:80/archive/8/theleavetaking.html | http://smallville.slashdom.com:80/archive/8/theleavetaking.html
+12 saves | 2002-06-28 | 20020628023428 | https://web.archive.org/web/20020628023428/http://smallville.slashdom.com:80/archive/8/thelies.html | http://smallville.slashdom.com:80/archive/8/thelies.html
 8 saves | 2002-08-14 | 20020814181209 | https://web.archive.org/web/20020814181209/http://smallville.slashdom.com:80/archive/8/theman.html | http://smallville.slashdom.com:80/archive/8/theman.html
 19 saves | 2002-06-27 | 20020627100748 | https://web.archive.org/web/20020627100748/http://smallville.slashdom.com:80/archive/8/thenext.html | http://smallville.slashdom.com:80/archive/8/thenext.html
 5 saves | 2002-10-20 | 20021020103414 | https://web.archive.org/web/20021020103414/http://smallville.slashdom.com:80/archive/8/theone.html | http://smallville.slashdom.com:80/archive/8/theone.html
@@ -3065,6 +3069,7 @@
 13 saves | 2002-06-28 | 20020628023328 | https://web.archive.org/web/20020628023328/http://smallville.slashdom.com:80/archive/8/thesound.html | http://smallville.slashdom.com:80/archive/8/thesound.html
 6 saves | 2002-10-20 | 20021020100937 | https://web.archive.org/web/20021020100937/http://smallville.slashdom.com:80/archive/8/thestrawberry.html | http://smallville.slashdom.com:80/archive/8/thestrawberry.html
 17 saves | 2002-07-11 | 20020711120834 | https://web.archive.org/web/20020711120834/http://smallville.slashdom.com:80/archive/8/theterrible.html | http://smallville.slashdom.com:80/archive/8/theterrible.html
+10 saves | 2002-07-13 | 20020713110244 | https://web.archive.org/web/20020713110244/http://smallville.slashdom.com:80/archive/8/theutterly.html | http://smallville.slashdom.com:80/archive/8/theutterly.html
 8 saves | 2002-07-13 | 20020713110220 | https://web.archive.org/web/20020713110220/http://smallville.slashdom.com:80/archive/8/thinkingoutside.html | http://smallville.slashdom.com:80/archive/8/thinkingoutside.html
 30 saves | 2002-06-27 | 20020627101229 | https://web.archive.org/web/20020627101229/http://smallville.slashdom.com:80/archive/8/threeimpossible.html | http://smallville.slashdom.com:80/archive/8/threeimpossible.html
 8 saves | 2002-07-06 | 20020706131318 | https://web.archive.org/web/20020706131318/http://smallville.slashdom.com:80/archive/8/unwantedaccolade.html | http://smallville.slashdom.com:80/archive/8/unwantedaccolade.html
@@ -3072,6 +3077,7 @@
 1 saves | 2002-07-06 | 20020706131744 | https://web.archive.org/web/20020706131744/http://smallville.slashdom.com:80/archive/8/vitaminsand.html | http://smallville.slashdom.com:80/archive/8/vitaminsand.html
 7 saves | 2002-07-06 | 20020706125743 | https://web.archive.org/web/20020706125743/http://smallville.slashdom.com:80/archive/8/whatare.html | http://smallville.slashdom.com:80/archive/8/whatare.html
 16 saves | 2002-07-06 | 20020706125312 | https://web.archive.org/web/20020706125312/http://smallville.slashdom.com:80/archive/8/whati.html | http://smallville.slashdom.com:80/archive/8/whati.html
+8 saves | 2002-07-20 | 20020720150723 | https://web.archive.org/web/20020720150723/http://smallville.slashdom.com:80/archive/9/absinthe.html | http://smallville.slashdom.com:80/archive/9/absinthe.html
 20 saves | 2002-12-16 | 20021216215327 | https://web.archive.org/web/20021216215327/http://smallville.slashdom.com:80/archive/9/admitone.html | http://smallville.slashdom.com:80/archive/9/admitone.html
 3 saves | 2003-02-25 | 20030225233816 | https://web.archive.org/web/20030225233816/http://smallville.slashdom.com:80/archive/9/advance.html | http://smallville.slashdom.com:80/archive/9/advance.html
 2 saves | 2002-08-14 | 20020814014116 | https://web.archive.org/web/20020814014116/http://smallville.slashdom.com:80/archive/9/afterschoolsnack.html | http://smallville.slashdom.com:80/archive/9/afterschoolsnack.html
@@ -3086,6 +3092,7 @@
 21 saves | 2002-10-02 | 20021002111735 | https://web.archive.org/web/20021002111735/http://smallville.slashdom.com:80/archive/9/convergence.html | http://smallville.slashdom.com:80/archive/9/convergence.html
 14 saves | 2002-08-14 | 20020814175611 | https://web.archive.org/web/20020814175611/http://smallville.slashdom.com:80/archive/9/cool.html | http://smallville.slashdom.com:80/archive/9/cool.html
 7 saves | 2002-07-13 | 20020713110315 | https://web.archive.org/web/20020713110315/http://smallville.slashdom.com:80/archive/9/cornmaze.html | http://smallville.slashdom.com:80/archive/9/cornmaze.html
+5 saves | 2002-08-14 | 20020814180126 | https://web.archive.org/web/20020814180126/http://smallville.slashdom.com:80/archive/9/destiniesand.html | http://smallville.slashdom.com:80/archive/9/destiniesand.html
 12 saves | 2002-08-14 | 20020814175447 | https://web.archive.org/web/20020814175447/http://smallville.slashdom.com:80/archive/9/electriclime.html | http://smallville.slashdom.com:80/archive/9/electriclime.html
 8 saves | 2002-12-20 | 20021220145424 | https://web.archive.org/web/20021220145424/http://smallville.slashdom.com:80/archive/9/everything.html | http://smallville.slashdom.com:80/archive/9/everything.html
 13 saves | 2002-08-14 | 20020814180533 | https://web.archive.org/web/20020814180533/http://smallville.slashdom.com:80/archive/9/excessiveforce.html | http://smallville.slashdom.com:80/archive/9/excessiveforce.html
@@ -3105,6 +3112,7 @@
 10 saves | 2002-07-26 | 20020726192710 | https://web.archive.org/web/20020726192710/http://smallville.slashdom.com:80/archive/9/justlooking.html | http://smallville.slashdom.com:80/archive/9/justlooking.html
 6 saves | 2002-10-04 | 20021004215511 | https://web.archive.org/web/20021004215511/http://smallville.slashdom.com:80/archive/9/killswitch.html | http://smallville.slashdom.com:80/archive/9/killswitch.html
 18 saves | 2002-10-01 | 20021001215914 | https://web.archive.org/web/20021001215914/http://smallville.slashdom.com:80/archive/9/lexluthor.html | http://smallville.slashdom.com:80/archive/9/lexluthor.html
+6 saves | 2002-12-20 | 20021220163146 | https://web.archive.org/web/20021220163146/http://smallville.slashdom.com:80/archive/9/lifesuch.html | http://smallville.slashdom.com:80/archive/9/lifesuch.html
 8 saves | 2002-08-14 | 20020814175021 | https://web.archive.org/web/20020814175021/http://smallville.slashdom.com:80/archive/9/littlegirls.html | http://smallville.slashdom.com:80/archive/9/littlegirls.html
 7 saves | 2002-08-14 | 20020814174936 | https://web.archive.org/web/20020814174936/http://smallville.slashdom.com:80/archive/9/losingcontrol2.html | http://smallville.slashdom.com:80/archive/9/losingcontrol2.html
 6 saves | 2002-10-20 | 20021020103047 | https://web.archive.org/web/20021020103047/http://smallville.slashdom.com:80/archive/9/lovecame.html | http://smallville.slashdom.com:80/archive/9/lovecame.html
@@ -3115,6 +3123,7 @@
 9 saves | 2002-08-14 | 20020814014559 | https://web.archive.org/web/20020814014559/http://smallville.slashdom.com:80/archive/9/muted.html | http://smallville.slashdom.com:80/archive/9/muted.html
 16 saves | 2002-07-22 | 20020722135504 | https://web.archive.org/web/20020722135504/http://smallville.slashdom.com:80/archive/9/orbitingamplified.html | http://smallville.slashdom.com:80/archive/9/orbitingamplified.html
 12 saves | 2002-08-14 | 20020814180453 | https://web.archive.org/web/20020814180453/http://smallville.slashdom.com:80/archive/9/ransom.html | http://smallville.slashdom.com:80/archive/9/ransom.html
+18 saves | 2002-08-14 | 20020814180712 | https://web.archive.org/web/20020814180712/http://smallville.slashdom.com:80/archive/9/redemption.html | http://smallville.slashdom.com:80/archive/9/redemption.html
 10 saves | 2002-07-18 | 20020718173235 | https://web.archive.org/web/20020718173235/http://smallville.slashdom.com:80/archive/9/regeneration.html | http://smallville.slashdom.com:80/archive/9/regeneration.html
 7 saves | 2002-07-16 | 20020716150211 | https://web.archive.org/web/20020716150211/http://smallville.slashdom.com:80/archive/9/restraints.html | http://smallville.slashdom.com:80/archive/9/restraints.html
 12 saves | 2002-07-13 | 20020713134659 | https://web.archive.org/web/20020713134659/http://smallville.slashdom.com:80/archive/9/silentlinguistics.html | http://smallville.slashdom.com:80/archive/9/silentlinguistics.html
@@ -3148,6 +3157,7 @@
 6 saves | 2002-12-20 | 20021220152005 | https://web.archive.org/web/20021220152005/http://smallville.slashdom.com:80/archive/9/thesly.html | http://smallville.slashdom.com:80/archive/9/thesly.html
 13 saves | 2002-08-14 | 20020814015432 | https://web.archive.org/web/20020814015432/http://smallville.slashdom.com:80/archive/9/thestory.html | http://smallville.slashdom.com:80/archive/9/thestory.html
 17 saves | 2002-08-06 | 20020806171349 | https://web.archive.org/web/20020806171349/http://smallville.slashdom.com:80/archive/9/thewhammy.html | http://smallville.slashdom.com:80/archive/9/thewhammy.html
+17 saves | 2002-07-13 | 20020713134420 | https://web.archive.org/web/20020713134420/http://smallville.slashdom.com:80/archive/9/thewonderful.html | http://smallville.slashdom.com:80/archive/9/thewonderful.html
 17 saves | 2002-08-14 | 20020814172316 | https://web.archive.org/web/20020814172316/http://smallville.slashdom.com:80/archive/9/tomorrowland.html | http://smallville.slashdom.com:80/archive/9/tomorrowland.html
 14 saves | 2002-10-20 | 20021020103015 | https://web.archive.org/web/20021020103015/http://smallville.slashdom.com:80/archive/9/torchred.html | http://smallville.slashdom.com:80/archive/9/torchred.html
 6 saves | 2002-08-14 | 20020814015510 | https://web.archive.org/web/20020814015510/http://smallville.slashdom.com:80/archive/9/towong.html | http://smallville.slashdom.com:80/archive/9/towong.html

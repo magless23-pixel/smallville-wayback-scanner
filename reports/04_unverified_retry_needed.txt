@@ -1,14 +1,4 @@
-URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/8/comeinto.html
-URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/8/learningto.html
-URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/8/theblack.html
-URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/8/thelies.html
-URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/8/theutterly.html
-URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/9/absinthe.html
 URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/9/bloodsports.html
-URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/9/destiniesand.html
 URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/9/interstitial.html
-URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/9/lifesuch.html
-URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/9/redemption.html
 URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/9/sourcefigure2.html
-URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/9/thewonderful.html
 URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.com:80/archive/9/youand.html
