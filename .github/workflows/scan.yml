@@ -4,20 +4,29 @@ on:
   workflow_dispatch:
     inputs:
       count:
-        description: 'Optional number of URLs to scan (blank = all eligible URLs)'
+        description: 'Optional total URLs for this scan series (blank = all eligible)'
         required: false
         default: ''
+        type: string
       delay:
         description: 'Seconds between requests (minimum 15)'
         required: true
         default: '40'
+        type: string
       retry_unverified:
-        description: 'Retry previously failed URLs (true or false)'
+        description: 'Retry previously unverified URLs'
         required: true
-        default: 'false'
+        default: false
+        type: boolean
+      continuation:
+        description: 'Internal: resume a saved scan queue (leave unchecked for manual runs)'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: smallville-cdx-scan
@@ -26,6 +35,7 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
     steps:
       - name: Check out latest default branch
         uses: actions/checkout@v4
@@ -46,14 +56,19 @@ jobs:
         env:
           SCAN_COUNT: ${{ inputs.count }}
           SCAN_DELAY: ${{ inputs.delay || '40' }}
-          RETRY_UNVERIFIED: ${{ inputs.retry_unverified || 'false' }}
+          RETRY_UNVERIFIED: ${{ inputs.retry_unverified }}
+          CONTINUATION: ${{ inputs.continuation }}
         run: |
-          args=(--delay "$SCAN_DELAY")
-          if [ -n "$SCAN_COUNT" ]; then
-            args+=(--count "$SCAN_COUNT")
-          fi
-          if [ "$RETRY_UNVERIFIED" = 'true' ]; then
-            args+=(--retry-unverified)
+          args=(--delay "$SCAN_DELAY" --max-minutes 350)
+          if [ "$CONTINUATION" = 'true' ]; then
+            args+=(--continuation)
+          else
+            if [ -n "$SCAN_COUNT" ]; then
+              args+=(--count "$SCAN_COUNT")
+            fi
+            if [ "$RETRY_UNVERIFIED" = 'true' ]; then
+              args+=(--retry-unverified)
+            fi
           fi
           python scan.py "${args[@]}"
       - name: Commit progress to default branch for next run
@@ -81,3 +96,25 @@ jobs:
           name: wayback-results-${{ github.run_number }}
           path: reports/
           if-no-files-found: warn
+      - name: Automatically continue remaining URLs
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          if python - <<'PY'
+          import json, pathlib, sys
+          path = pathlib.Path('reports/scan_control.json')
+          if not path.exists():
+              sys.exit(1)
+          status = json.loads(path.read_text(encoding='utf-8'))
+          print(f"Remaining selected URLs: {status['remaining_in_selection']}; auto-continue: {status['auto_continue']}")
+          sys.exit(0 if status['auto_continue'] else 1)
+          PY
+          then
+            echo 'Starting next GitHub Actions run to continue the saved queue.'
+            gh workflow run scan.yml --ref "$DEFAULT_BRANCH" \
+              -f continuation=true -f count='' -f delay='40' -f retry_unverified=false
+          else
+            echo 'Scan series finished, or automatic continuation not safe/needed.'
+          fi
