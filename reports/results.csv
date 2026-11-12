@@ -1,5 +1,4 @@
 ﻿original_url,category,indexed_save_count,earliest_date_utc,earliest_timestamp_utc,earliest_snapshot_url,status
-http://smallville.slashdom.net:80/archive/,REMAINING,15,2007-02-16,20070216015817,https://web.archive.org/web/20070216015817/http://smallville.slashdom.net:80/archive/,OK
 http://smallville.slashdom.net:80/archive/0/allhuman.html,REMAINING,4,2009-02-07,20090207065947,https://web.archive.org/web/20090207065947/http://smallville.slashdom.net:80/archive/0/allhuman.html,OK
 http://smallville.slashdom.net:80/archive/0/almost.html,REMAINING,3,2007-12-09,20071209231938,https://web.archive.org/web/20071209231938/http://smallville.slashdom.net:80/archive/0/almost.html,OK
 http://www.smallville.slashdom.net:80/archive/0/alwaysthe.html,REMAINING,7,2007-06-06,20070606194708,https://web.archive.org/web/20070606194708/http://www.smallville.slashdom.net:80/archive/0/alwaysthe.html,OK
@@ -114,3 +113,129 @@ http://smallville.slashdom.net:80/archive/1/seize.html,REMAINING,2,2008-04-02,20
 http://www.smallville.slashdom.net:80/archive/1/shine.html,REMAINING,3,2008-04-11,20080411220341,https://web.archive.org/web/20080411220341/http://www.smallville.slashdom.net:80/archive/1/shine.html,OK
 http://www.smallville.slashdom.net:80/archive/1/snapshots.html,REMAINING,2,2008-08-03,20080803005212,https://web.archive.org/web/20080803005212/http://www.smallville.slashdom.net:80/archive/1/snapshots.html,OK
 http://www.smallville.slashdom.net:80/archive/1/somethingfor.html,REMAINING,3,2007-12-29,20071229151930,https://web.archive.org/web/20071229151930/http://www.smallville.slashdom.net:80/archive/1/somethingfor.html,OK
+http://smallville.slashdom.net:80/archive/1/somethingless.html,REMAINING,3,2007-12-09,20071209232442,https://web.archive.org/web/20071209232442/http://smallville.slashdom.net:80/archive/1/somethingless.html,OK
+http://www.smallville.slashdom.net:80/archive/1/subtext.html,REMAINING,5,2008-01-10,20080110155720,https://web.archive.org/web/20080110155720/http://www.smallville.slashdom.net:80/archive/1/subtext.html,OK
+http://www.smallville.slashdom.net:80/archive/1/takingcare.html,REMAINING,7,2007-02-04,20070204103503,https://web.archive.org/web/20070204103503/http://www.smallville.slashdom.net:80/archive/1/takingcare.html,OK
+http://www.smallville.slashdom.net:80/archive/1/thebutterfly.html,REMAINING,29,2006-10-25,20061025092006,https://web.archive.org/web/20061025092006/http://www.smallville.slashdom.net:80/archive/1/thebutterfly.html,OK
+http://www.smallville.slashdom.net:80/archive/1/thelast.html,REMAINING,3,2008-08-03,20080803005723,https://web.archive.org/web/20080803005723/http://www.smallville.slashdom.net:80/archive/1/thelast.html,OK
+http://www.smallville.slashdom.net:80/archive/1/themorning.html,REMAINING,2,2008-08-03,20080803005728,https://web.archive.org/web/20080803005728/http://www.smallville.slashdom.net:80/archive/1/themorning.html,OK
+http://www.smallville.slashdom.net:80/archive/1/thenondoubledate.html,REMAINING,2,2008-01-19,20080119132331,https://web.archive.org/web/20080119132331/http://www.smallville.slashdom.net:80/archive/1/thenondoubledate.html,OK
+http://www.smallville.slashdom.net:80/archive/1/thetruth.html,REMAINING,6,2007-10-12,20071012060112,https://web.archive.org/web/20071012060112/http://www.smallville.slashdom.net:80/archive/1/thetruth.html,OK
+http://smallville.slashdom.net:80/archive/1/thinline.html,REMAINING,5,2007-05-27,20070527002355,https://web.archive.org/web/20070527002355/http://smallville.slashdom.net:80/archive/1/thinline.html,OK
+http://www.smallville.slashdom.net:80/archive/1/tillyoure.html,REMAINING,3,2007-11-30,20071130171750,https://web.archive.org/web/20071130171750/http://www.smallville.slashdom.net:80/archive/1/tillyoure.html,OK
+http://www.smallville.slashdom.net:80/archive/1/unexpected.html,REMAINING,13,2007-12-12,20071212162824,https://web.archive.org/web/20071212162824/http://www.smallville.slashdom.net:80/archive/1/unexpected.html,OK
+http://www.smallville.slashdom.net:80/archive/1/waitingfor.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/1/wet.html,REMAINING,2,2008-09-17,20080917123539,https://web.archive.org/web/20080917123539/http://www.smallville.slashdom.net:80/archive/1/wet.html,OK
+http://www.smallville.slashdom.net:80/archive/1/youdont.html,REMAINING,6,2007-02-14,20070214181312,https://web.archive.org/web/20070214181312/http://www.smallville.slashdom.net:80/archive/1/youdont.html,OK
+http://www.smallville.slashdom.net:80/archive/10/101ways.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/alesson.html,REMAINING,5,2007-02-10,20070210030118,https://web.archive.org/web/20070210030118/http://www.smallville.slashdom.net:80/archive/10/alesson.html,OK
+http://www.smallville.slashdom.net:80/archive/10/betterthan.html,REMAINING,2,2007-02-09,20070209125216,https://web.archive.org/web/20070209125216/http://www.smallville.slashdom.net:80/archive/10/betterthan.html,OK
+http://www.smallville.slashdom.net:80/archive/10/carbon.html,REMAINING,3,2008-08-01,20080801085934,https://web.archive.org/web/20080801085934/http://www.smallville.slashdom.net:80/archive/10/carbon.html,OK
+http://www.smallville.slashdom.net:80/archive/10/chinesewhispers.html,REMAINING,2,2007-02-14,20070214060915,https://web.archive.org/web/20070214060915/http://www.smallville.slashdom.net:80/archive/10/chinesewhispers.html,OK
+http://www.smallville.slashdom.net:80/archive/10/commonground.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/confidence.html,REMAINING,11,2007-05-09,20070509103601,https://web.archive.org/web/20070509103601/http://www.smallville.slashdom.net:80/archive/10/confidence.html,OK
+http://www.smallville.slashdom.net:80/archive/10/cornerof.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/dancefever.html,REMAINING,5,2007-02-15,20070215065315,https://web.archive.org/web/20070215065315/http://www.smallville.slashdom.net:80/archive/10/dancefever.html,OK
+http://www.smallville.slashdom.net:80/archive/10/dandelionwine.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/dangerous.html,REMAINING,2,2007-02-15,20070215064736,https://web.archive.org/web/20070215064736/http://www.smallville.slashdom.net:80/archive/10/dangerous.html,OK
+http://www.smallville.slashdom.net:80/archive/10/earlyto.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/everything.html,REMAINING,6,2007-03-22,20070322013715,https://web.archive.org/web/20070322013715/http://www.smallville.slashdom.net:80/archive/10/everything.html,OK
+http://www.smallville.slashdom.net:80/archive/10/felldown.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/fireice.html,REMAINING,2,2008-09-27,20080927215809,https://web.archive.org/web/20080927215809/http://www.smallville.slashdom.net:80/archive/10/fireice.html,OK
+http://smallville.slashdom.net:80/archive/10/freak.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/getting.html,REMAINING,4,2007-06-07,20070607004608,https://web.archive.org/web/20070607004608/http://www.smallville.slashdom.net:80/archive/10/getting.html,OK
+http://www.smallville.slashdom.net:80/archive/10/goodbye.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/heat.html,REMAINING,15,2007-10-23,20071023060354,https://web.archive.org/web/20071023060354/http://www.smallville.slashdom.net:80/archive/10/heat.html,OK
+http://www.smallville.slashdom.net:80/archive/10/hideand.html,REMAINING,5,2007-02-05,20070205020753,https://web.archive.org/web/20070205020753/http://www.smallville.slashdom.net:80/archive/10/hideand.html,OK
+http://www.smallville.slashdom.net:80/archive/10/ifwishes.html,REMAINING,2,2007-02-15,20070215110930,https://web.archive.org/web/20070215110930/http://www.smallville.slashdom.net:80/archive/10/ifwishes.html,OK
+http://www.smallville.slashdom.net:80/archive/10/imagine.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/inevitable.html,REMAINING,3,2008-08-28,20080828113126,https://web.archive.org/web/20080828113126/http://www.smallville.slashdom.net:80/archive/10/inevitable.html,OK
+http://www.smallville.slashdom.net:80/archive/10/investigativejournalism.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/inyour.html,REMAINING,4,2007-03-29,20070329181032,https://web.archive.org/web/20070329181032/http://www.smallville.slashdom.net:80/archive/10/inyour.html,OK
+http://www.smallville.slashdom.net:80/archive/10/ithe.html,REMAINING,4,2010-06-27,20100627081138,https://web.archive.org/web/20100627081138/http://www.smallville.slashdom.net:80/archive/10/ithe.html,OK
+http://smallville.slashdom.net:80/archive/10/justanother.html,REMAINING,8,2007-06-21,20070621175428,https://web.archive.org/web/20070621175428/http://smallville.slashdom.net:80/archive/10/justanother.html,OK
+http://www.smallville.slashdom.net:80/archive/10/justfor.html,REMAINING,2,2007-06-08,20070608022128,https://web.archive.org/web/20070608022128/http://www.smallville.slashdom.net:80/archive/10/justfor.html,OK
+http://www.smallville.slashdom.net:80/archive/10/lovelike.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/memoirsof.html,REMAINING,11,2007-03-14,20070314062156,https://web.archive.org/web/20070314062156/http://www.smallville.slashdom.net:80/archive/10/memoirsof.html,OK
+http://www.smallville.slashdom.net:80/archive/10/mint.html,REMAINING,7,2007-05-09,20070509095927,https://web.archive.org/web/20070509095927/http://www.smallville.slashdom.net:80/archive/10/mint.html,OK
+http://www.smallville.slashdom.net:80/archive/10/mourning.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/mousea.html,REMAINING,7,2008-01-16,20080116103927,https://web.archive.org/web/20080116103927/http://www.smallville.slashdom.net:80/archive/10/mousea.html,OK
+http://www.smallville.slashdom.net:80/archive/10/mu.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://smallville.slashdom.net:80/archive/10/newleaf.html,REMAINING,4,2009-02-07,20090207070227,https://web.archive.org/web/20090207070227/http://smallville.slashdom.net:80/archive/10/newleaf.html,OK
+http://www.smallville.slashdom.net:80/archive/10/notyour.html,REMAINING,6,2008-05-21,20080521011933,https://web.archive.org/web/20080521011933/http://www.smallville.slashdom.net:80/archive/10/notyour.html,OK
+http://www.smallville.slashdom.net:80/archive/10/pacificblue.html,REMAINING,4,2008-02-19,20080219233939,https://web.archive.org/web/20080219233939/http://www.smallville.slashdom.net:80/archive/10/pacificblue.html,OK
+http://smallville.slashdom.net:80/archive/10/particleby.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/playingbanjo.html,REMAINING,29,2007-03-22,20070322214350,https://web.archive.org/web/20070322214350/http://www.smallville.slashdom.net:80/archive/10/playingbanjo.html,OK
+http://www.smallville.slashdom.net:80/archive/10/powerplay.html,REMAINING,6,2008-09-27,20080927220921,https://web.archive.org/web/20080927220921/http://www.smallville.slashdom.net:80/archive/10/powerplay.html,OK
+http://www.smallville.slashdom.net:80/archive/10/precipice.html,REMAINING,2,2007-02-14,20070214061237,https://web.archive.org/web/20070214061237/http://www.smallville.slashdom.net:80/archive/10/precipice.html,OK
+http://smallville.slashdom.net:80/archive/10/promise.html,REMAINING,29,2007-05-09,20070509103847,https://web.archive.org/web/20070509103847/http://smallville.slashdom.net:80/archive/10/promise.html,OK
+http://www.smallville.slashdom.net:80/archive/10/reaction.html,REMAINING,4,2007-03-22,20070322014950,https://web.archive.org/web/20070322014950/http://www.smallville.slashdom.net:80/archive/10/reaction.html,OK
+http://www.smallville.slashdom.net:80/archive/10/realperson.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/regrets.html,REMAINING,2,2007-06-07,20070607004607,https://web.archive.org/web/20070607004607/http://www.smallville.slashdom.net:80/archive/10/regrets.html,OK
+http://www.smallville.slashdom.net:80/archive/10/revelation.html,REMAINING,4,2007-02-15,20070215065325,https://web.archive.org/web/20070215065325/http://www.smallville.slashdom.net:80/archive/10/revelation.html,OK
+http://www.smallville.slashdom.net:80/archive/10/reversalof.html,REMAINING,3,2008-03-14,20080314131624,https://web.archive.org/web/20080314131624/http://www.smallville.slashdom.net:80/archive/10/reversalof.html,OK
+http://www.smallville.slashdom.net:80/archive/10/ringsand.html,REMAINING,3,2007-12-01,20071201151945,https://web.archive.org/web/20071201151945/http://www.smallville.slashdom.net:80/archive/10/ringsand.html,OK
+http://www.smallville.slashdom.net:80/archive/10/seasons.html,REMAINING,7,2007-10-16,20071016052008,https://web.archive.org/web/20071016052008/http://www.smallville.slashdom.net:80/archive/10/seasons.html,OK
+http://www.smallville.slashdom.net:80/archive/10/shakespearein.html,REMAINING,1,2008-05-08,20080508203046,https://web.archive.org/web/20080508203046/http://www.smallville.slashdom.net:80/archive/10/shakespearein.html,OK
+http://www.smallville.slashdom.net:80/archive/10/shift.html,REMAINING,3,2008-02-28,20080228003516,https://web.archive.org/web/20080228003516/http://www.smallville.slashdom.net:80/archive/10/shift.html,OK
+http://www.smallville.slashdom.net:80/archive/10/shiny.html,REMAINING,8,2007-05-09,20070509103000,https://web.archive.org/web/20070509103000/http://www.smallville.slashdom.net:80/archive/10/shiny.html,OK
+http://www.smallville.slashdom.net:80/archive/10/socomplicated.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/startsomewhere.html,REMAINING,2,2007-03-22,20070322014000,https://web.archive.org/web/20070322014000/http://www.smallville.slashdom.net:80/archive/10/startsomewhere.html,OK
+http://www.smallville.slashdom.net:80/archive/10/stateof.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/tensided.html,REMAINING,2,2009-04-22,20090422174242,https://web.archive.org/web/20090422174242/http://www.smallville.slashdom.net:80/archive/10/tensided.html,OK
+http://www.smallville.slashdom.net:80/archive/10/theart.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/thefabulous.html,REMAINING,8,2007-02-09,20070209063737,https://web.archive.org/web/20070209063737/http://www.smallville.slashdom.net:80/archive/10/thefabulous.html,OK
+http://www.smallville.slashdom.net:80/archive/10/thegolden.html,REMAINING,5,2007-06-08,20070608022023,https://web.archive.org/web/20070608022023/http://www.smallville.slashdom.net:80/archive/10/thegolden.html,OK
+http://smallville.slashdom.net:80/archive/10/thepresence.html,REMAINING,8,2007-12-09,20071209151239,https://web.archive.org/web/20071209151239/http://smallville.slashdom.net:80/archive/10/thepresence.html,OK
+http://www.smallville.slashdom.net:80/archive/10/thescientist.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/thewasteland.html,REMAINING,13,2007-02-07,20070207151711,https://web.archive.org/web/20070207151711/http://www.smallville.slashdom.net:80/archive/10/thewasteland.html,OK
+http://www.smallville.slashdom.net:80/archive/10/titfor.html,REMAINING,2,2007-03-29,20070329181708,https://web.archive.org/web/20070329181708/http://www.smallville.slashdom.net:80/archive/10/titfor.html,OK
+http://www.smallville.slashdom.net:80/archive/10/trancendentallyyours.html,REMAINING,2,2008-01-12,20080112014301,https://web.archive.org/web/20080112014301/http://www.smallville.slashdom.net:80/archive/10/trancendentallyyours.html,OK
+http://www.smallville.slashdom.net:80/archive/10/welcomehome.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/10/yesterdaytoday.html,REMAINING,8,2007-06-13,20070613005432,https://web.archive.org/web/20070613005432/http://www.smallville.slashdom.net:80/archive/10/yesterdaytoday.html,OK
+http://www.smallville.slashdom.net:80/archive/10/yeswell.html,REMAINING,6,2007-05-09,20070509100414,https://web.archive.org/web/20070509100414/http://www.smallville.slashdom.net:80/archive/10/yeswell.html,OK
+http://www.smallville.slashdom.net:80/archive/11/18with.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/angelsand.html,REMAINING,2,2007-12-10,20071210215532,https://web.archive.org/web/20071210215532/http://www.smallville.slashdom.net:80/archive/11/angelsand.html,OK
+http://www.smallville.slashdom.net:80/archive/11/beingsomewhere.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/bellsand.html,REMAINING,3,2008-03-06,20080306010656,https://web.archive.org/web/20080306010656/http://www.smallville.slashdom.net:80/archive/11/bellsand.html,OK
+http://www.smallville.slashdom.net:80/archive/11/billionairebachelors.html,REMAINING,2,2007-03-18,20070318104656,https://web.archive.org/web/20070318104656/http://www.smallville.slashdom.net:80/archive/11/billionairebachelors.html,OK
+http://www.smallville.slashdom.net:80/archive/11/cinnamonsugar.html,REMAINING,9,2007-02-15,20070215092738,https://web.archive.org/web/20070215092738/http://www.smallville.slashdom.net:80/archive/11/cinnamonsugar.html,OK
+http://smallville.slashdom.net:80/archive/11/clarksten.html,REMAINING,22,2007-05-12,20070512223831,https://web.archive.org/web/20070512223831/http://smallville.slashdom.net:80/archive/11/clarksten.html,OK
+http://www.smallville.slashdom.net:80/archive/11/coldhands.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://smallville.slashdom.net:80/archive/11/collectable.html,REMAINING,8,2007-12-09,20071209232448,https://web.archive.org/web/20071209232448/http://smallville.slashdom.net:80/archive/11/collectable.html,OK
+http://www.smallville.slashdom.net:80/archive/11/cornerof.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/debtin.html,REMAINING,3,2008-05-10,20080510102056,https://web.archive.org/web/20080510102056/http://www.smallville.slashdom.net:80/archive/11/debtin.html,OK
+http://www.smallville.slashdom.net:80/archive/11/disgusted.html,REMAINING,3,2007-02-15,20070215064746,https://web.archive.org/web/20070215064746/http://www.smallville.slashdom.net:80/archive/11/disgusted.html,OK
+http://smallville.slashdom.net:80/archive/11/dontcry.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/firstaid.html,REMAINING,10,2008-01-18,20080118142431,https://web.archive.org/web/20080118142431/http://www.smallville.slashdom.net:80/archive/11/firstaid.html,OK
+http://www.smallville.slashdom.net:80/archive/11/follyand.html,REMAINING,3,2007-06-12,20070612013028,https://web.archive.org/web/20070612013028/http://www.smallville.slashdom.net:80/archive/11/follyand.html,OK
+http://www.smallville.slashdom.net:80/archive/11/goingsomewhere.html,REMAINING,2,2007-03-22,20070322015251,https://web.archive.org/web/20070322015251/http://www.smallville.slashdom.net:80/archive/11/goingsomewhere.html,OK
+http://www.smallville.slashdom.net:80/archive/11/heat2.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/heat3.html,REMAINING,5,2008-07-31,20080731202009,https://web.archive.org/web/20080731202009/http://www.smallville.slashdom.net:80/archive/11/heat3.html,OK
+http://www.smallville.slashdom.net:80/archive/11/heat4.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/hewas.html,REMAINING,1,2008-07-20,20080720041406,https://web.archive.org/web/20080720041406/http://www.smallville.slashdom.net:80/archive/11/hewas.html,OK
+http://www.smallville.slashdom.net:80/archive/11/hooked.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/icecream.html,REMAINING,4,2007-12-26,20071226111331,https://web.archive.org/web/20071226111331/http://www.smallville.slashdom.net:80/archive/11/icecream.html,OK
+http://www.smallville.slashdom.net:80/archive/11/iknow.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/incidenceloves.html,REMAINING,2,2007-03-29,20070329180641,https://web.archive.org/web/20070329180641/http://www.smallville.slashdom.net:80/archive/11/incidenceloves.html,OK
+http://www.smallville.slashdom.net:80/archive/11/inmemory.html,REMAINING,2,2008-05-08,20080508203052,https://web.archive.org/web/20080508203052/http://www.smallville.slashdom.net:80/archive/11/inmemory.html,OK
+http://www.smallville.slashdom.net:80/archive/11/intimatestrangers.html,REMAINING,4,2008-02-09,20080209023939,https://web.archive.org/web/20080209023939/http://www.smallville.slashdom.net:80/archive/11/intimatestrangers.html,OK
+http://www.smallville.slashdom.net:80/archive/11/itsnot.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/justification.html,REMAINING,3,2007-06-09,20070609222558,https://web.archive.org/web/20070609222558/http://www.smallville.slashdom.net:80/archive/11/justification.html,OK
+http://www.smallville.slashdom.net:80/archive/11/limitationsof.html,REMAINING,5,2007-05-09,20070509103416,https://web.archive.org/web/20070509103416/http://www.smallville.slashdom.net:80/archive/11/limitationsof.html,OK
+http://www.smallville.slashdom.net:80/archive/11/mayi.html,REMAINING,4,2007-12-01,20071201133237,https://web.archive.org/web/20071201133237/http://www.smallville.slashdom.net:80/archive/11/mayi.html,OK
+http://www.smallville.slashdom.net:80/archive/11/morningafter.html,REMAINING,2,2009-04-20,20090420130444,https://web.archive.org/web/20090420130444/http://www.smallville.slashdom.net:80/archive/11/morningafter.html,OK
+http://smallville.slashdom.net:80/archive/11/morningsand.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/mrfixit.html,REMAINING,2,2008-05-21,20080521011944,https://web.archive.org/web/20080521011944/http://www.smallville.slashdom.net:80/archive/11/mrfixit.html,OK
+http://smallville.slashdom.net:80/archive/11/noparticular.html,REMAINING,6,2008-01-03,20080103234611,https://web.archive.org/web/20080103234611/http://smallville.slashdom.net:80/archive/11/noparticular.html,OK
+http://www.smallville.slashdom.net:80/archive/11/nourishment11.html,REMAINING,2,2007-02-16,20070216071412,https://web.archive.org/web/20070216071412/http://www.smallville.slashdom.net:80/archive/11/nourishment11.html,OK
+http://www.smallville.slashdom.net:80/archive/11/nourishment12.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/nourishment15.html,REMAINING,4,2007-12-01,20071201151955,https://web.archive.org/web/20071201151955/http://www.smallville.slashdom.net:80/archive/11/nourishment15.html,OK
+http://www.smallville.slashdom.net:80/archive/11/nourishment16.html,REMAINING,3,2007-06-06,20070606234025,https://web.archive.org/web/20070606234025/http://www.smallville.slashdom.net:80/archive/11/nourishment16.html,OK
+http://www.smallville.slashdom.net:80/archive/11/nourishment2.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/nourishment3.html,REMAINING,3,2007-12-30,20071230103252,https://web.archive.org/web/20071230103252/http://www.smallville.slashdom.net:80/archive/11/nourishment3.html,OK
+http://www.smallville.slashdom.net:80/archive/11/nourishment6.html,UNVERIFIED,,,,,URLError: <urlopen error _ssl.c:994: The handshake operation timed out>
+http://www.smallville.slashdom.net:80/archive/11/nourishment9.html,REMAINING,5,2007-12-03,20071203190450,https://web.archive.org/web/20071203190450/http://www.smallville.slashdom.net:80/archive/11/nourishment9.html,OK
+http://www.smallville.slashdom.net:80/archive/11/november.html,REMAINING,5,2007-02-15,20070215064040,https://web.archive.org/web/20070215064040/http://www.smallville.slashdom.net:80/archive/11/november.html,OK
+http://www.smallville.slashdom.net:80/archive/11/obsessions.html,REMAINING,5,2008-01-19,20080119180956,https://web.archive.org/web/20080119180956/http://www.smallville.slashdom.net:80/archive/11/obsessions.html,OK
+http://smallville.slashdom.net:80/archive/11/patron.html,REMAINING,2,2009-06-25,20090625034024,https://web.archive.org/web/20090625034024/http://smallville.slashdom.net:80/archive/11/patron.html,OK
