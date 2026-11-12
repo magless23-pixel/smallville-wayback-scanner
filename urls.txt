@@ -1,4 +1,3 @@
-http://smallville.slashdom.net:80/archive/
 http://smallville.slashdom.net:80/archive/0/allhuman.html
 http://smallville.slashdom.net:80/archive/0/almost.html
 http://www.smallville.slashdom.net:80/archive/0/alwaysthe.html
