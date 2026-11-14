@@ -123,12 +123,19 @@ def main():
     ap.add_argument('--count', type=int, default=None, help='Optional number of URLs to check in this scan series')
     ap.add_argument('--delay', type=float, default=20, help='Seconds between requests, minimum 15')
     ap.add_argument('--retries', type=int, default=2, help='Extra tries after a temporary failure, up to 3')
-    ap.add_argument('--retry-unverified', action='store_true', help='Retry previously unverified, otherwise only new URLs')
+    ap.add_argument('--mode', choices=('new', 'unverified', 'both'), default='new',
+                    help='new: only unchecked URLs; unverified: only failed URLs; both: both groups')
+    ap.add_argument('--retry-unverified', action='store_true',
+                    help=argparse.SUPPRESS)  # Backwards compatibility with earlier workflows
     ap.add_argument('--max-minutes', type=float, default=350, help='Graceful scan time budget, default 350 minutes (5h50m)')
     ap.add_argument('--continuation', action='store_true', help='Continue the previously saved selected URL queue')
     args = ap.parse_args()
     if (args.count is not None and args.count < 1) or args.delay < 15 or not 0 <= args.retries <= 3 or args.max_minutes <= 0:
         ap.error('count >= 1 when supplied; delay >=15; retries 0..3; max-minutes > 0')
+    if args.retry_unverified:
+        if args.mode != 'new':
+            ap.error('--retry-unverified cannot be combined with --mode')
+        args.mode = 'both'
 
     deadline = time.monotonic() + args.max_minutes * 60
     request_margin = 60
@@ -142,16 +149,29 @@ def main():
         queue = json.loads(QUEUE.read_text(encoding='utf-8'))
         if not isinstance(queue.get('pending'), list) or not isinstance(queue.get('initial_size'), int):
             raise ValueError('Invalid saved scan queue')
+        # Preserve original series settings, even when a fresh GitHub runner starts.
+        args.delay = float(queue.get('delay', args.delay))
+        args.retries = int(queue.get('retries', args.retries))
+        args.mode = queue.get('mode', 'both' if queue.get('retry_unverified') else 'new')
+        if args.delay < 15 or not 0 <= args.retries <= 3 or args.mode not in ('new', 'unverified', 'both'):
+            raise ValueError('Invalid saved scan settings')
         if any(u not in positions for u in queue['pending']):
             raise ValueError('urls.txt changed since scan started; refusing to continue mismatched queue')
     else:
-        candidates = [u for u in urls if u not in records or (args.retry_unverified and records[u]['category'] == 'UNVERIFIED')]
+        if args.mode == 'new':
+            candidates = [u for u in urls if u not in records]
+        elif args.mode == 'unverified':
+            candidates = [u for u in urls if u in records and records[u]['category'] == 'UNVERIFIED']
+        else:
+            candidates = [u for u in urls if u not in records or records[u]['category'] == 'UNVERIFIED']
         selected = candidates if args.count is None else candidates[:args.count]
-        queue = {'pending': selected, 'initial_size': len(selected), 'retry_unverified': args.retry_unverified}
+        queue = {'pending': selected, 'initial_size': len(selected),
+                 'mode': args.mode, 'delay': args.delay, 'retries': args.retries}
         save_queue(queue)
 
     print(f"Total {len(urls)} URLs; {len(records)} previous records; "
-          f"{len(queue['pending'])} remaining in this scan series (originally {queue['initial_size']})", flush=True)
+          f"{len(queue['pending'])} remaining in this scan series (originally {queue['initial_size']}); "
+          f"mode={args.mode}", flush=True)
 
     completed = 0
     stopped_for_time = False
