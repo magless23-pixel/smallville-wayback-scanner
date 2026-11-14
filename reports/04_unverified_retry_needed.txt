@@ -170,3 +170,15 @@ URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http:/
 URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.net:80/archive/22/notto.html
 URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/22/playinghouse.html
 URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.net:80/archive/22/room29.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/22/thecolor.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/22/thecolor3.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/22/thecolor7.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/22/themonster.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/22/tolove.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/22/whena.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.net:80/archive/23/alife.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/23/bereft.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://smallville.slashdom.net:80/archive/23/conditioned.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/23/fromthe.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/23/gladlybeyond.html
+URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/23/iwant.html

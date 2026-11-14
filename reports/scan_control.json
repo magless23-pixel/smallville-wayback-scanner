@@ -1,6 +1,6 @@
 {
-  "auto_continue": true,
-  "remaining_in_selection": 40,
-  "attempted_this_run": 131,
-  "stopped_for_time": true
+  "auto_continue": false,
+  "remaining_in_selection": 0,
+  "attempted_this_run": 40,
+  "stopped_for_time": false
 }
