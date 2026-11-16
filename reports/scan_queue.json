@@ -1,7 +1,7 @@
 {
   "pending": [],
-  "initial_size": 1000,
-  "mode": "new",
+  "initial_size": 20,
+  "mode": "unverified",
   "delay": 40.0,
   "retries": 2
 }
