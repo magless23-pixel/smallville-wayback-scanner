@@ -402,6 +402,7 @@
 3 saves | 2008-01-12 | 20080112014327 | https://web.archive.org/web/20080112014327/http://www.smallville.slashdom.net:80/archive/14/alienthoughts.html | http://www.smallville.slashdom.net:80/archive/14/alienthoughts.html
 12 saves | 2007-02-21 | 20070221054640 | https://web.archive.org/web/20070221054640/http://smallville.slashdom.net:80/archive/14/alife.html | http://smallville.slashdom.net:80/archive/14/alife.html
 3 saves | 2008-08-01 | 20080801090523 | https://web.archive.org/web/20080801090523/http://www.smallville.slashdom.net:80/archive/14/applesalexander.html | http://www.smallville.slashdom.net:80/archive/14/applesalexander.html
+2 saves | 2007-02-26 | 20070226061159 | https://web.archive.org/web/20070226061159/http://www.smallville.slashdom.net:80/archive/14/bentin.html | http://www.smallville.slashdom.net:80/archive/14/bentin.html
 4 saves | 2007-06-07 | 20070607004804 | https://web.archive.org/web/20070607004804/http://www.smallville.slashdom.net:80/archive/14/blood.html | http://www.smallville.slashdom.net:80/archive/14/blood.html
 4 saves | 2007-02-15 | 20070215070512 | https://web.archive.org/web/20070215070512/http://www.smallville.slashdom.net:80/archive/14/boardwalkwith.html | http://www.smallville.slashdom.net:80/archive/14/boardwalkwith.html
 4 saves | 2008-09-18 | 20080918104707 | https://web.archive.org/web/20080918104707/http://www.smallville.slashdom.net:80/archive/14/browniefun.html | http://www.smallville.slashdom.net:80/archive/14/browniefun.html
@@ -641,6 +642,7 @@
 7 saves | 2007-06-08 | 20070608022227 | https://web.archive.org/web/20070608022227/http://www.smallville.slashdom.net:80/archive/17/sofine.html | http://www.smallville.slashdom.net:80/archive/17/sofine.html
 7 saves | 2007-12-28 | 20071228091757 | https://web.archive.org/web/20071228091757/http://www.smallville.slashdom.net:80/archive/17/soft.html | http://www.smallville.slashdom.net:80/archive/17/soft.html
 6 saves | 2008-04-11 | 20080411044601 | https://web.archive.org/web/20080411044601/http://smallville.slashdom.net:80/archive/17/standingin.html | http://smallville.slashdom.net:80/archive/17/standingin.html
+13 saves | 2007-11-23 | 20071123195430 | https://web.archive.org/web/20071123195430/http://www.smallville.slashdom.net:80/archive/17/stress.html | http://www.smallville.slashdom.net:80/archive/17/stress.html
 4 saves | 2007-02-14 | 20070214143229 | https://web.archive.org/web/20070214143229/http://www.smallville.slashdom.net:80/archive/17/sundaybrunch.html | http://www.smallville.slashdom.net:80/archive/17/sundaybrunch.html
 42 saves | 2007-05-09 | 20070509095543 | https://web.archive.org/web/20070509095543/http://www.smallville.slashdom.net:80/archive/17/switcha.html | http://www.smallville.slashdom.net:80/archive/17/switcha.html
 5 saves | 2007-02-27 | 20070227044304 | https://web.archive.org/web/20070227044304/http://www.smallville.slashdom.net:80/archive/17/temptnot.html | http://www.smallville.slashdom.net:80/archive/17/temptnot.html
@@ -677,6 +679,7 @@
 2 saves | 2008-06-06 | 20080606175309 | https://web.archive.org/web/20080606175309/http://www.smallville.slashdom.net:80/archive/18/brotherlylust.html | http://www.smallville.slashdom.net:80/archive/18/brotherlylust.html
 2 saves | 2007-02-15 | 20070215111130 | https://web.archive.org/web/20070215111130/http://www.smallville.slashdom.net:80/archive/18/changinglanes.html | http://www.smallville.slashdom.net:80/archive/18/changinglanes.html
 15 saves | 2007-02-13 | 20070213112703 | https://web.archive.org/web/20070213112703/http://www.smallville.slashdom.net:80/archive/18/cherryblossom.html | http://www.smallville.slashdom.net:80/archive/18/cherryblossom.html
+7 saves | 2007-05-09 | 20070509101736 | https://web.archive.org/web/20070509101736/http://www.smallville.slashdom.net:80/archive/18/childhooddreams.html | http://www.smallville.slashdom.net:80/archive/18/childhooddreams.html
 4 saves | 2007-12-01 | 20071201152107 | https://web.archive.org/web/20071201152107/http://www.smallville.slashdom.net:80/archive/18/complicated.html | http://www.smallville.slashdom.net:80/archive/18/complicated.html
 2 saves | 2007-03-28 | 20070328192708 | https://web.archive.org/web/20070328192708/http://www.smallville.slashdom.net:80/archive/18/cornerof.html | http://www.smallville.slashdom.net:80/archive/18/cornerof.html
 6 saves | 2008-12-17 | 20081217033903 | https://web.archive.org/web/20081217033903/http://www.smallville.slashdom.net:80/archive/18/cumnow.html | http://www.smallville.slashdom.net:80/archive/18/cumnow.html
@@ -717,6 +720,7 @@
 5 saves | 2007-11-30 | 20071130171836 | https://web.archive.org/web/20071130171836/http://www.smallville.slashdom.net:80/archive/18/partof.html | http://www.smallville.slashdom.net:80/archive/18/partof.html
 7 saves | 2007-03-18 | 20070318104115 | https://web.archive.org/web/20070318104115/http://www.smallville.slashdom.net:80/archive/18/patch.html | http://www.smallville.slashdom.net:80/archive/18/patch.html
 7 saves | 2007-12-16 | 20071216055816 | https://web.archive.org/web/20071216055816/http://www.smallville.slashdom.net:80/archive/18/perfectday.html | http://www.smallville.slashdom.net:80/archive/18/perfectday.html
+3 saves | 2008-09-14 | 20080914040158 | https://web.archive.org/web/20080914040158/http://www.smallville.slashdom.net:80/archive/18/rescuessunsets.html | http://www.smallville.slashdom.net:80/archive/18/rescuessunsets.html
 6 saves | 2007-02-07 | 20070207145013 | https://web.archive.org/web/20070207145013/http://www.smallville.slashdom.net:80/archive/18/residentalien.html | http://www.smallville.slashdom.net:80/archive/18/residentalien.html
 4 saves | 2008-01-12 | 20080112014357 | https://web.archive.org/web/20080112014357/http://www.smallville.slashdom.net:80/archive/18/stardust.html | http://www.smallville.slashdom.net:80/archive/18/stardust.html
 4 saves | 2007-12-09 | 20071209230545 | https://web.archive.org/web/20071209230545/http://smallville.slashdom.net:80/archive/18/sweetdreams.html | http://smallville.slashdom.net:80/archive/18/sweetdreams.html
@@ -734,6 +738,7 @@
 8 saves | 2007-02-15 | 20070215062408 | https://web.archive.org/web/20070215062408/http://www.smallville.slashdom.net:80/archive/19/abad.html | http://www.smallville.slashdom.net:80/archive/19/abad.html
 3 saves | 2008-02-11 | 20080211135753 | https://web.archive.org/web/20080211135753/http://www.smallville.slashdom.net:80/archive/19/ahappy.html | http://www.smallville.slashdom.net:80/archive/19/ahappy.html
 3 saves | 2007-06-13 | 20070613005309 | https://web.archive.org/web/20070613005309/http://www.smallville.slashdom.net:80/archive/19/andi.html | http://www.smallville.slashdom.net:80/archive/19/andi.html
+7 saves | 2007-06-06 | 20070606210149 | https://web.archive.org/web/20070606210149/http://www.smallville.slashdom.net:80/archive/19/breathingroom.html | http://www.smallville.slashdom.net:80/archive/19/breathingroom.html
 19 saves | 2007-02-15 | 20070215065405 | https://web.archive.org/web/20070215065405/http://www.smallville.slashdom.net:80/archive/19/breathless.html | http://www.smallville.slashdom.net:80/archive/19/breathless.html
 5 saves | 2010-04-15 | 20100415000545 | https://web.archive.org/web/20100415000545/http://smallville.slashdom.net:80/archive/19/buti.html | http://smallville.slashdom.net:80/archive/19/buti.html
 3 saves | 2008-08-01 | 20080801090040 | https://web.archive.org/web/20080801090040/http://www.smallville.slashdom.net:80/archive/19/changingyour.html | http://www.smallville.slashdom.net:80/archive/19/changingyour.html
@@ -809,6 +814,7 @@
 2 saves | 2007-06-07 | 20070607004704 | https://web.archive.org/web/20070607004704/http://www.smallville.slashdom.net:80/archive/2/bellereve.html | http://www.smallville.slashdom.net:80/archive/2/bellereve.html
 10 saves | 2007-06-19 | 20070619044051 | https://web.archive.org/web/20070619044051/http://smallville.slashdom.net:80/archive/2/better.html | http://smallville.slashdom.net:80/archive/2/better.html
 4 saves | 2007-12-01 | 20071201152127 | https://web.archive.org/web/20071201152127/http://www.smallville.slashdom.net:80/archive/2/broken.html | http://www.smallville.slashdom.net:80/archive/2/broken.html
+10 saves | 2007-05-09 | 20070509101454 | https://web.archive.org/web/20070509101454/http://www.smallville.slashdom.net:80/archive/2/champagnewishes.html | http://www.smallville.slashdom.net:80/archive/2/champagnewishes.html
 2 saves | 2007-03-29 | 20070329181122 | https://web.archive.org/web/20070329181122/http://www.smallville.slashdom.net:80/archive/2/contramundum.html | http://www.smallville.slashdom.net:80/archive/2/contramundum.html
 3 saves | 2008-07-31 | 20080731011842 | https://web.archive.org/web/20080731011842/http://www.smallville.slashdom.net:80/archive/2/cornerof.html | http://www.smallville.slashdom.net:80/archive/2/cornerof.html
 4 saves | 2008-07-29 | 20080729151537 | https://web.archive.org/web/20080729151537/http://www.smallville.slashdom.net:80/archive/2/cornerof2.html | http://www.smallville.slashdom.net:80/archive/2/cornerof2.html
@@ -817,6 +823,7 @@
 7 saves | 2008-07-27 | 20080727105803 | https://web.archive.org/web/20080727105803/http://www.smallville.slashdom.net:80/archive/2/cornerof5.html | http://www.smallville.slashdom.net:80/archive/2/cornerof5.html
 4 saves | 2008-07-28 | 20080728225929 | https://web.archive.org/web/20080728225929/http://www.smallville.slashdom.net:80/archive/2/cornerof6.html | http://www.smallville.slashdom.net:80/archive/2/cornerof6.html
 4 saves | 2008-07-28 | 20080728225935 | https://web.archive.org/web/20080728225935/http://www.smallville.slashdom.net:80/archive/2/cornerof7.html | http://www.smallville.slashdom.net:80/archive/2/cornerof7.html
+3 saves | 2008-01-20 | 20080120195739 | https://web.archive.org/web/20080120195739/http://www.smallville.slashdom.net:80/archive/2/couldbe.html | http://www.smallville.slashdom.net:80/archive/2/couldbe.html
 4 saves | 2007-06-07 | 20070607004211 | https://web.archive.org/web/20070607004211/http://www.smallville.slashdom.net:80/archive/2/couldhave.html | http://www.smallville.slashdom.net:80/archive/2/couldhave.html
 6 saves | 2007-10-12 | 20071012060133 | https://web.archive.org/web/20071012060133/http://www.smallville.slashdom.net:80/archive/2/curiouserand.html | http://www.smallville.slashdom.net:80/archive/2/curiouserand.html
 2 saves | 2007-02-15 | 20070215062158 | https://web.archive.org/web/20070215062158/http://www.smallville.slashdom.net:80/archive/2/daddy.html | http://www.smallville.slashdom.net:80/archive/2/daddy.html
@@ -954,6 +961,7 @@
 8 saves | 2007-06-11 | 20070611124135 | https://web.archive.org/web/20070611124135/http://smallville.slashdom.net:80/archive/21/first.html | http://smallville.slashdom.net:80/archive/21/first.html
 21 saves | 2007-12-09 | 20071209231816 | https://web.archive.org/web/20071209231816/http://smallville.slashdom.net:80/archive/21/firsttimes.html | http://smallville.slashdom.net:80/archive/21/firsttimes.html
 2 saves | 2008-05-01 | 20080501212433 | https://web.archive.org/web/20080501212433/http://www.smallville.slashdom.net:80/archive/21/flowersand.html | http://www.smallville.slashdom.net:80/archive/21/flowersand.html
+3 saves | 2008-11-01 | 20081101093800 | https://web.archive.org/web/20081101093800/http://www.smallville.slashdom.net:80/archive/21/forlove.html | http://www.smallville.slashdom.net:80/archive/21/forlove.html
 10 saves | 2007-05-09 | 20070509102142 | https://web.archive.org/web/20070509102142/http://www.smallville.slashdom.net:80/archive/21/gota.html | http://www.smallville.slashdom.net:80/archive/21/gota.html
 8 saves | 2008-01-15 | 20080115165122 | https://web.archive.org/web/20080115165122/http://www.smallville.slashdom.net:80/archive/21/heat6.html | http://www.smallville.slashdom.net:80/archive/21/heat6.html
 3 saves | 2008-03-08 | 20080308201531 | https://web.archive.org/web/20080308201531/http://www.smallville.slashdom.net:80/archive/21/heavenand.html | http://www.smallville.slashdom.net:80/archive/21/heavenand.html
@@ -968,6 +976,7 @@
 17 saves | 2007-05-09 | 20070509102308 | https://web.archive.org/web/20070509102308/http://smallville.slashdom.net:80/archive/21/macellum.html | http://smallville.slashdom.net:80/archive/21/macellum.html
 2 saves | 2007-03-29 | 20070329180812 | https://web.archive.org/web/20070329180812/http://www.smallville.slashdom.net:80/archive/21/machinae.html | http://www.smallville.slashdom.net:80/archive/21/machinae.html
 5 saves | 2007-11-30 | 20071130171908 | https://web.archive.org/web/20071130171908/http://www.smallville.slashdom.net:80/archive/21/makeno.html | http://www.smallville.slashdom.net:80/archive/21/makeno.html
+11 saves | 2007-05-02 | 20070502151423 | https://web.archive.org/web/20070502151423/http://www.smallville.slashdom.net:80/archive/21/makeroom.html | http://www.smallville.slashdom.net:80/archive/21/makeroom.html
 7 saves | 2007-12-01 | 20071201084325 | https://web.archive.org/web/20071201084325/http://smallville.slashdom.net:80/archive/21/makeyourself.html | http://smallville.slashdom.net:80/archive/21/makeyourself.html
 13 saves | 2006-09-02 | 20060902214624 | https://web.archive.org/web/20060902214624/http://www.smallville.slashdom.net:80/archive/21/mercy.html | http://www.smallville.slashdom.net:80/archive/21/mercy.html
 3 saves | 2007-12-09 | 20071209231821 | https://web.archive.org/web/20071209231821/http://smallville.slashdom.net:80/archive/21/near5th.html | http://smallville.slashdom.net:80/archive/21/near5th.html
@@ -980,11 +989,13 @@
 5 saves | 2007-02-15 | 20070215063553 | https://web.archive.org/web/20070215063553/http://www.smallville.slashdom.net:80/archive/21/rainbow.html | http://www.smallville.slashdom.net:80/archive/21/rainbow.html
 16 saves | 2007-02-21 | 20070221083550 | https://web.archive.org/web/20070221083550/http://www.smallville.slashdom.net:80/archive/21/resistanceis.html | http://www.smallville.slashdom.net:80/archive/21/resistanceis.html
 4 saves | 2007-12-01 | 20071201152142 | https://web.archive.org/web/20071201152142/http://www.smallville.slashdom.net:80/archive/21/rotation.html | http://www.smallville.slashdom.net:80/archive/21/rotation.html
+4 saves | 2008-03-08 | 20080308201536 | https://web.archive.org/web/20080308201536/http://www.smallville.slashdom.net:80/archive/21/sacrificingangels.html | http://www.smallville.slashdom.net:80/archive/21/sacrificingangels.html
 18 saves | 2007-05-09 | 20070509100651 | https://web.archive.org/web/20070509100651/http://smallville.slashdom.net:80/archive/21/sparks.html | http://smallville.slashdom.net:80/archive/21/sparks.html
 3 saves | 2008-06-12 | 20080612003913 | https://web.archive.org/web/20080612003913/http://www.smallville.slashdom.net:80/archive/21/springbreak.html | http://www.smallville.slashdom.net:80/archive/21/springbreak.html
 3 saves | 2007-12-09 | 20071209231827 | https://web.archive.org/web/20071209231827/http://smallville.slashdom.net:80/archive/21/springtimesnow.html | http://smallville.slashdom.net:80/archive/21/springtimesnow.html
 5 saves | 2007-02-15 | 20070215134026 | https://web.archive.org/web/20070215134026/http://www.smallville.slashdom.net:80/archive/21/stardust.html | http://www.smallville.slashdom.net:80/archive/21/stardust.html
 10 saves | 2007-06-12 | 20070612013016 | https://web.archive.org/web/20070612013016/http://www.smallville.slashdom.net:80/archive/21/studysession.html | http://www.smallville.slashdom.net:80/archive/21/studysession.html
+9 saves | 2007-05-09 | 20070509101324 | https://web.archive.org/web/20070509101324/http://www.smallville.slashdom.net:80/archive/21/surrender.html | http://www.smallville.slashdom.net:80/archive/21/surrender.html
 6 saves | 2007-03-29 | 20070329183557 | https://web.archive.org/web/20070329183557/http://www.smallville.slashdom.net:80/archive/21/surrogate.html | http://www.smallville.slashdom.net:80/archive/21/surrogate.html
 2 saves | 2007-03-29 | 20070329174300 | https://web.archive.org/web/20070329174300/http://www.smallville.slashdom.net:80/archive/21/sweetand.html | http://www.smallville.slashdom.net:80/archive/21/sweetand.html
 2 saves | 2007-02-15 | 20070215070957 | https://web.archive.org/web/20070215070957/http://www.smallville.slashdom.net:80/archive/21/teachingphilosophy.html | http://www.smallville.slashdom.net:80/archive/21/teachingphilosophy.html
@@ -995,10 +1006,12 @@
 8 saves | 2007-02-21 | 20070221055142 | https://web.archive.org/web/20070221055142/http://smallville.slashdom.net:80/archive/21/thetryst.html | http://smallville.slashdom.net:80/archive/21/thetryst.html
 3 saves | 2007-03-18 | 20070318104345 | https://web.archive.org/web/20070318104345/http://www.smallville.slashdom.net:80/archive/21/underthe.html | http://www.smallville.slashdom.net:80/archive/21/underthe.html
 3 saves | 2008-03-08 | 20080308201542 | https://web.archive.org/web/20080308201542/http://www.smallville.slashdom.net:80/archive/21/voices.html | http://www.smallville.slashdom.net:80/archive/21/voices.html
+6 saves | 2007-02-15 | 20070215143332 | https://web.archive.org/web/20070215143332/http://www.smallville.slashdom.net:80/archive/21/watchingcaught.html | http://www.smallville.slashdom.net:80/archive/21/watchingcaught.html
 7 saves | 2007-02-15 | 20070215062208 | https://web.archive.org/web/20070215062208/http://www.smallville.slashdom.net:80/archive/21/whap.html | http://www.smallville.slashdom.net:80/archive/21/whap.html
 2 saves | 2007-02-15 | 20070215064856 | https://web.archive.org/web/20070215064856/http://www.smallville.slashdom.net:80/archive/21/wherelies.html | http://www.smallville.slashdom.net:80/archive/21/wherelies.html
 4 saves | 2007-12-11 | 20071211181703 | https://web.archive.org/web/20071211181703/http://www.smallville.slashdom.net:80/archive/21/worstsmallville.html | http://www.smallville.slashdom.net:80/archive/21/worstsmallville.html
 2 saves | 2007-02-15 | 20070215064211 | https://web.archive.org/web/20070215064211/http://www.smallville.slashdom.net:80/archive/22/ahundred.html | http://www.smallville.slashdom.net:80/archive/22/ahundred.html
+1 saves | 2007-06-07 | 20070607222933 | https://web.archive.org/web/20070607222933/http://www.smallville.slashdom.net:80/archive/22/allthat.html | http://www.smallville.slashdom.net:80/archive/22/allthat.html
 2 saves | 2007-02-10 | 20070210030238 | https://web.archive.org/web/20070210030238/http://www.smallville.slashdom.net:80/archive/22/amomentary.html | http://www.smallville.slashdom.net:80/archive/22/amomentary.html
 6 saves | 2007-05-09 | 20070509100420 | https://web.archive.org/web/20070509100420/http://www.smallville.slashdom.net:80/archive/22/amuted.html | http://www.smallville.slashdom.net:80/archive/22/amuted.html
 6 saves | 2007-02-09 | 20070209125606 | https://web.archive.org/web/20070209125606/http://www.smallville.slashdom.net:80/archive/22/april.html | http://www.smallville.slashdom.net:80/archive/22/april.html
@@ -1006,9 +1019,12 @@
 3 saves | 2007-06-07 | 20070607003939 | https://web.archive.org/web/20070607003939/http://www.smallville.slashdom.net:80/archive/22/asummers.html | http://www.smallville.slashdom.net:80/archive/22/asummers.html
 6 saves | 2008-10-24 | 20081024230951 | https://web.archive.org/web/20081024230951/http://smallville.slashdom.net:80/archive/22/aview.html | http://smallville.slashdom.net:80/archive/22/aview.html
 4 saves | 2009-02-05 | 20090205140550 | https://web.archive.org/web/20090205140550/http://smallville.slashdom.net:80/archive/22/backto.html | http://smallville.slashdom.net:80/archive/22/backto.html
+4 saves | 2009-02-05 | 20090205170215 | https://web.archive.org/web/20090205170215/http://smallville.slashdom.net:80/archive/22/backto2.html | http://smallville.slashdom.net:80/archive/22/backto2.html
 3 saves | 2009-02-05 | 20090205140604 | https://web.archive.org/web/20090205140604/http://smallville.slashdom.net:80/archive/22/backto3.html | http://smallville.slashdom.net:80/archive/22/backto3.html
 19 saves | 2007-03-29 | 20070329180348 | https://web.archive.org/web/20070329180348/http://www.smallville.slashdom.net:80/archive/22/bodiesin.html | http://www.smallville.slashdom.net:80/archive/22/bodiesin.html
+8 saves | 2007-05-09 | 20070509101630 | https://web.archive.org/web/20070509101630/http://www.smallville.slashdom.net:80/archive/22/butohdance.html | http://www.smallville.slashdom.net:80/archive/22/butohdance.html
 2 saves | 2008-05-08 | 20080508203221 | https://web.archive.org/web/20080508203221/http://www.smallville.slashdom.net:80/archive/22/casualpartners.html | http://www.smallville.slashdom.net:80/archive/22/casualpartners.html
+16 saves | 2007-05-12 | 20070512225704 | https://web.archive.org/web/20070512225704/http://smallville.slashdom.net:80/archive/22/cestla.html | http://smallville.slashdom.net:80/archive/22/cestla.html
 9 saves | 2007-02-15 | 20070215143053 | https://web.archive.org/web/20070215143053/http://www.smallville.slashdom.net:80/archive/22/clarkand.html | http://www.smallville.slashdom.net:80/archive/22/clarkand.html
 7 saves | 2007-02-15 | 20070215064221 | https://web.archive.org/web/20070215064221/http://www.smallville.slashdom.net:80/archive/22/coercion.html | http://www.smallville.slashdom.net:80/archive/22/coercion.html
 1 saves | 2007-03-18 | 20070318104707 | https://web.archive.org/web/20070318104707/http://www.smallville.slashdom.net:80/archive/22/dieselbstbeherrschung.html | http://www.smallville.slashdom.net:80/archive/22/dieselbstbeherrschung.html
