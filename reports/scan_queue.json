@@ -1,8 +1,6 @@
 {
-  "pending": [
-    "http://www.smallville.slashdom.net:80/archive/35/strangebedfellows.html"
-  ],
-  "initial_size": 2,
+  "pending": [],
+  "initial_size": 1,
   "mode": "unverified",
   "delay": 40.0,
   "retries": 2
