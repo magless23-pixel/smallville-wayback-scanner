@@ -1,2 +1,1 @@
-URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/34/thirdsunday.html
 URLError: <urlopen error _ssl.c:994: The handshake operation timed out> | http://www.smallville.slashdom.net:80/archive/35/strangebedfellows.html
