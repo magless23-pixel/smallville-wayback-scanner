@@ -1799,7 +1799,6 @@ http://www.smallville.slashdom.net:80/archive/31/watercolors.html
 http://www.smallville.slashdom.net:80/archive/31/wecan.html
 http://www.smallville.slashdom.net:80/archive/31/whenlikes.html
 http://www.smallville.slashdom.net:80/archive/31/winea.html
-http://smallville.slashdom.net:80/archive/32/
 http://www.smallville.slashdom.net:80/archive/32/adoption.html
 http://www.smallville.slashdom.net:80/archive/32/alienbiology.html
 http://www.smallville.slashdom.net:80/archive/32/alife.html
