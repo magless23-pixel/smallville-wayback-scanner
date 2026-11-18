@@ -1799,7 +1799,6 @@
 14 saves | 2007-05-09 | 20070509100742 | https://web.archive.org/web/20070509100742/http://www.smallville.slashdom.net:80/archive/31/wecan.html | http://www.smallville.slashdom.net:80/archive/31/wecan.html
 12 saves | 2007-03-29 | 20070329182049 | https://web.archive.org/web/20070329182049/http://www.smallville.slashdom.net:80/archive/31/whenlikes.html | http://www.smallville.slashdom.net:80/archive/31/whenlikes.html
 6 saves | 2008-03-06 | 20080306010748 | https://web.archive.org/web/20080306010748/http://www.smallville.slashdom.net:80/archive/31/winea.html | http://www.smallville.slashdom.net:80/archive/31/winea.html
-2 saves | 2009-09-29 | 20090929091758 | https://web.archive.org/web/20090929091758/http://smallville.slashdom.net:80/archive/32/ | http://smallville.slashdom.net:80/archive/32/
 5 saves | 2008-03-18 | 20080318085059 | https://web.archive.org/web/20080318085059/http://www.smallville.slashdom.net:80/archive/32/adoption.html | http://www.smallville.slashdom.net:80/archive/32/adoption.html
 15 saves | 2007-02-14 | 20070214140552 | https://web.archive.org/web/20070214140552/http://www.smallville.slashdom.net:80/archive/32/alienbiology.html | http://www.smallville.slashdom.net:80/archive/32/alienbiology.html
 4 saves | 2008-08-01 | 20080801090812 | https://web.archive.org/web/20080801090812/http://www.smallville.slashdom.net:80/archive/32/alife.html | http://www.smallville.slashdom.net:80/archive/32/alife.html
@@ -2623,3 +2622,8 @@
 7 saves | 2007-02-09 | 20070209125635 | https://web.archive.org/web/20070209125635/http://www.smallville.slashdom.net:80/archive/41/wineand.html | http://www.smallville.slashdom.net:80/archive/41/wineand.html
 4 saves | 2007-02-09 | 20070209085221 | https://web.archive.org/web/20070209085221/http://www.smallville.slashdom.net:80/archive/42/911.html | http://www.smallville.slashdom.net:80/archive/42/911.html
 13 saves | 2007-02-15 | 20070215062458 | https://web.archive.org/web/20070215062458/http://www.smallville.slashdom.net:80/archive/42/aday.html | http://www.smallville.slashdom.net:80/archive/42/aday.html
+5 saves | 2007-02-10 | 20070210030057 | https://web.archive.org/web/20070210030057/http://www.smallville.slashdom.net:80/archive/42/adose.html | http://www.smallville.slashdom.net:80/archive/42/adose.html
+6 saves | 2007-12-14 | 20071214204851 | https://web.archive.org/web/20071214204851/http://www.smallville.slashdom.net:80/archive/42/algeria.html | http://www.smallville.slashdom.net:80/archive/42/algeria.html
+12 saves | 2007-05-09 | 20070509095843 | https://web.archive.org/web/20070509095843/http://www.smallville.slashdom.net:80/archive/42/amutually.html | http://www.smallville.slashdom.net:80/archive/42/amutually.html
+6 saves | 2007-02-15 | 20070215070642 | https://web.archive.org/web/20070215070642/http://www.smallville.slashdom.net:80/archive/42/andeverything.html | http://www.smallville.slashdom.net:80/archive/42/andeverything.html
+4 saves | 2007-02-09 | 20070209090716 | https://web.archive.org/web/20070209090716/http://www.smallville.slashdom.net:80/archive/42/apromise.html | http://www.smallville.slashdom.net:80/archive/42/apromise.html
